@@ -24,4 +24,20 @@ jobs:
         pip install -r requirements.txt  # Install any required Python packages
 
     - name: Run Python script
-      run: python actions.py  # Replace 'path/to/your/script.py' with the actual path to your script
+      run: |
+          mkdir -p converted_files
+          python actions.py
+      working-directory: ${{ github.workspace }}
+    
+    - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add converted_files
+          git commit -m "Add converted files"
+        working-directory: ${{ github.workspace }}
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
