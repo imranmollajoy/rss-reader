@@ -1,6 +1,5 @@
 import requests, feedparser,pypandoc
 from readability import Document
-from fetched import fetched_links
 
 def get_links_from_rss(rss_page):
     feed = feedparser.parse(rss_page)
@@ -38,7 +37,7 @@ for source in sources:
     rss_page = get_webpage(source["link"])
     source_name = source["name"]
     links = get_links_from_rss(rss_page)
-
+    fetched_links=[]
     epub_content=""
 
     for link in links:
