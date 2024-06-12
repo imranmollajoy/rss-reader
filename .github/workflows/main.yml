@@ -12,8 +12,7 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
-    - name: Add
-      run: git add .
+      
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
@@ -26,16 +25,23 @@ jobs:
 
     - name: Run Python script
       run: |
-          mkdir -p converted_files
-          python actions.py
+        mkdir -p converted_files
+        python actions.py
+      working-directory: ${{ github.workspace }}
+      
+    - name: List files for debugging
+      run: |
+        echo "Files in the workspace:"
+        ls -R
       working-directory: ${{ github.workspace }}
     
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add converted_files
-        git commit -m "Add converted files"
+        git add converted_files/*
+        git status
+        git commit -m "Add converted files" || echo "No changes to commit"
       working-directory: ${{ github.workspace }}
 
     - name: Push changes
