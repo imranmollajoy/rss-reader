@@ -1,0 +1,9 @@
+The European Union will place an additional tariff on vehicles imported from China starting next month, the [commission announced on Wednesday](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3231). The extra tariffs go as high as 38 percent, adding to the existing 10 percent duty the EU imposes on foreign vehicles.
+
+The move comes after a [monthslong investigation](https://www.reuters.com/world/europe/eu-launches-anti-subsidy-investigation-into-chinese-electric-vehicles-2023-09-13/) concluded that Chinese EV makers benefit from unfair state-backed subsidization, allowing them to sell their vehicles for cheaper than rivals. China-made EVs accounted for around 37 percent of all EV imports in the EU, according [to a recent study](https://rhg.com/research/aint-no-duty-high-enough/) from independent research provider Rhodium Group.
+
+The [European Commission says](https://ec.europa.eu/commission/presscorner/detail/en/qanda_24_3232) it’s imposing the new tariffs to “remove the substantial unfair competitive advantage” of Chinese EVs and to ensure they “compete on a level playing field.” The tariffs vary by company, with BYD facing a 17.4 percent duty, Geely at 20 percent, and SAIC at 38.1 percent.
+
+China’s Ministry of Commerce isn’t happy with the changes. “The EU ignored the facts and WTO \[World Trade Organization\] rules, ignored repeated strong objections from China, and ignored the appeals and dissuasions of many EU member states’ governments and industries,” the agency said in a statement.
+
+President Joe Biden made a similar move in the US last month, [increasing tariffs on Chinese EVs from 25 percent](/2024/5/14/24156249/us-biden-china-tariffs-ev-solar-battery-semiconductor-critical-minerals) to 100 percent. This is in response to fear in the industry that China’s cheap EVs could flood the markets and potentially put domestic automakers out of business.
