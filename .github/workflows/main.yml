@@ -39,7 +39,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add converted_files/*
+        git add .
         git status
         git commit -m "Add converted files" || echo "No changes to commit"
       working-directory: ${{ github.workspace }}
