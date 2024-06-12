@@ -1,0 +1,9 @@
+Sony Pictures Entertainment has acquired the popular movie theater chain Alamo Drafthouse Cinema, the two companies announced on Wednesday.
+
+Sony, which will oversee the theaters under a new Sony Pictures Experiences division, says it “will preserve Alamo Drafthouse’s distinctive movie-dining experience,” [according to a press release](https://www.sonypictures.com/corp/press_releases/2024/0612/sonypicturesentertainmentacquiresalamodrafthousecinema). Alamo will continue to operate “all 35 of its cinemas across 25 metro areas under the Alamo Drafthouse brand,” and current CEO Michael Kustermann will remain in that role. Alamo’s Fantastic Fest film festival will still be operated by the company.
+
+Sony is acquiring Alamo Drafthouse from Altamont Capital Partners, Fortress Investment Group, and Alamo founder Tim League — a group that [took ownership of Alamo](https://variety.com/2021/film/news/alamo-drafthouse-bankruptcy-end-1234985368/) after it filed for Chapter 11 bankruptcy [in 2021](https://www.nytimes.com/2021/03/03/business/alamo-drafthouse-files-for-chapter-11-bankruptcy-protection.html).
+
+Sony’s acquisition is particularly notable given that it’s happening after the [2020 termination of the Paramount Consent Decrees](https://www.justice.gov/opa/pr/federal-court-terminates-paramount-consent-decrees). The decrees, resulting from a 1948 Supreme Court decision, forced movie companies to sell the theaters they owned to spur competition and create consumer choice. With so many ways for viewers to see films nowadays, the decree was reversed by the Department of Justice.
+
+Since then, Sony isn’t the only movie distributor that has purchased theaters; Netflix has cinemas [in New York and Los Angeles](https://variety.com/2023/film/news/egyptian-theatre-hollywood-restoration-netflix-1235767379/).
