@@ -1,0 +1,11 @@
+OpenAI and Microsoft are teaming up with Oracle to get more compute capacity to run ChatGPT. As part of a partnership announced this week, the three companies are working together so that OpenAI can use the Microsoft Azure Al platform on Oracle’s infrastructure.
+
+OpenAI CEO Sam Altman hasn’t shied away from the fact that his company needs substantially more infrastructure to power its services. He has even been in [discussions to raise billions of dollars](/2024/1/19/24044319/openai-chip-manufacturing-fundraising) for an AI chip venture. In [the press release](https://www.oracle.com/news/announcement/openai-selects-oracle-cloud-infrastructure-to-extend-microsoft-azure-ai-platform-2024-06-11/) for the Oracle deal this week, he said Oracle’s chips will “enable OpenAI to continue to scale.”
+
+To date, OpenAI has relied fully on Microsoft for its compute needs. In turn, Microsoft has [invested $13 billion](https://www.wsj.com/tech/microsoft-closes-above-3-trillion-as-its-big-ai-play-generates-excitement-e37ea2a4) for a 49 percent stake in OpenAI’s for-profit subsidiary and the exclusive right to commercially license its technology. But as this Oracle deal makes clear, OpenAI needs more compute than Microsoft alone can give if it wants [to keep up with demand](/2024/6/10/24174786/apple-openai-partnership-chatgpt-wwdc) and prevent [future ChatGPT outages](/2024/6/4/24171264/chatgpt-down-outage-errors).
+
+Microsoft and OpenAI are clearly sensitive about how this Oracle deal is perceived. On Wednesday, OpenAI issued [a follow-up statement](https://x.com/OpenAI/status/1800778542512550260) saying that “our strategic cloud relationship with Microsoft is unchanged” and that the new partnership “enables OpenAI to use the Azure AI platform on OCI infrastructure for inference and other needs.” (Inference refers to the act of running AI models in production through applications like ChatGPT.)
+
+OpenAI also made clear that the pre-training of its frontier models “continues to happen on supercomputers built in partnership with Microsoft.”
+
+There’s another level of awkwardness to OpenAI and Oracle working together: Oracle also provides infrastructure to [xAI, Elon Musk’s OpenAI rival](/2024/5/27/24165619/elon-musk-xai-startup-6-billion-funding).
