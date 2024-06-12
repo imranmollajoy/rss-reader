@@ -16,11 +16,11 @@ When you press the side buttons while running the iOS 18 beta, there’s a cleve
 
 GIF: Wes Davis / The Verge
 
-Bilingual people might be pleased to hear that in the iOS 18 beta, you can type in two languages at once without toggling between them again and again by tapping the wireframe globe on the iOS keyboard and picking the new language. It takes some setup under iOS keyboards language settings (Settings &gt; General &gt; Keyboard &gt; Keyboards &gt; Add New Keyboard), but the change will stop bad autocorrect results just because you want to type a quick couple of words of Spanish in an otherwise English text!
+Bilingual people might be pleased to hear you can type in two languages at once in the iOS 18 beta without toggling between them again and again by tapping the wireframe globe on the iOS keyboard and picking the new language. It takes some setup under the iOS keyboard language settings (Settings &gt; General &gt; Keyboard &gt; Keyboards &gt; Add New Keyboard), but the change will stop bad autocorrect results just because you want to type a couple of words in Spanish in an otherwise English text!
 
 ### A new way to see (with the iOS flashlight app)
 
-Remember the Action Button picker that came with the iPhone 15 Pro? While not quite so over the top, in the iOS 18 betas, people found that tapping the flashlight icon brings down a similarly fun little animation of a flashlight that you can swipe vertically to raise and lower luminance. You can also slide your finger left and right to adjust the actual shape of the beam! It only works with the iPhone 15 Pro phones, though, as they have a special flash not found on other iPhones.
+Remember the Action Button picker that came with the iPhone 15 Pro? While not quite so over the top, people found that tapping the flashlight icon in the iOS 18 betas brings down a similarly fun little animation of a flashlight that you can swipe vertically to raise and lower luminance. You can also slide your finger left and right to adjust the actual shape of the beam! It only works with the iPhone 15 Pro phones, though, as they have a special flash not found on other iPhones.
 
 ### Easier widget customization
 
@@ -32,7 +32,7 @@ Apple is also working on a better way to resize widgets in iOS 18. When you long
 
 GIF: Wes Davis / The Verge
 
-One of the best quality-of-life upgrades for the Vision Pro is that the headset will show you your keyboard when you’re fully in a virtual environment now. It didn’t do that before, so if you wanted to, say, work on top of a mountain, you had to either use partial immersion in the scene or clumsily paw at your keyboard. It’s not perfect — it’s mainly designed to work with the Magic Keyboard, and in my testing, seems to inconsistently recognize my mechanical keyboard. But it’s a welcome change all the same.
+One of the best quality-of-life upgrades for the Vision Pro is that the headset will show you your keyboard when you’re fully in a virtual environment now. It didn’t do that before, so if you wanted to, say, work on top of a mountain, you had to either use partial immersion in the scene or clumsily paw at your keyboard. It’s not perfect — it’s mainly designed to work with the Magic Keyboard and, in my testing, seems to inconsistently recognize my mechanical keyboard. But it’s a welcome change all the same.
 
 ### Wallpapers, notifications, and charging limits
 
@@ -42,4 +42,4 @@ Seeing voicemail transcriptions right in the notification will save you so many 
 
 Beta users have also spotted a more granular set of [charging limit options for iPhone 15 devices](/2023/9/21/23884725/apple-iphone-15-pro-optimized-charging-80-percent-how-it-works) — instead of just choosing to limit charge to 80 percent, there’s a slider between 80 and 100 percent, with stops every 5 percent along the way.
 
-While there are tons more updates hidden throughout Apple’s current set of betas, we have to stop somewhere. If you’re interested in trying out the new betas and don’t want to wait for their public releases later, you’ll need to [sign up for the developer program](https://developer.apple.com/programs/enroll/) and then follow [Apple’s instructions](https://developer.apple.com/support/install-beta/). (We have [our own guide](/24175976/ios-18-developer-public-betas-install-how-to), if you find that easier!) Make sure you back up your device before you download the beta, though, and beware: betas can be buggy, and there’s potential for things to go seriously wrong. It’s fun to mess with betas on an old iPhone, but it’s not a great idea on your primary phone or computer.
+While there are tons more updates hidden throughout Apple’s current set of betas, we have to stop somewhere. If you’re interested in trying out the new betas and don’t want to wait for their public releases, you’ll need to [sign up for the developer program](https://developer.apple.com/programs/enroll/) and then follow [Apple’s instructions](https://developer.apple.com/support/install-beta/). (We have [our own guide](/24175976/ios-18-developer-public-betas-install-how-to), if you find that easier!) Make sure you back up your device before you download the beta, though, and beware: betas can be buggy, and there’s potential for things to go seriously wrong. It’s fun to mess with betas on an old iPhone, but it’s not a great idea on your primary phone or computer.
