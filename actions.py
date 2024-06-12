@@ -1,6 +1,8 @@
 import requests, feedparser,pypandoc
 from readability import Document
 
+pypandoc.download_pandoc()
+
 def get_links_from_rss(rss_page):
     feed = feedparser.parse(rss_page)
     links = [entry.link for entry in feed.entries]
