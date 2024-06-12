@@ -1,4 +1,4 @@
-import requests, feedparser,pypandoc
+import os, requests, feedparser,pypandoc
 from readability import Document
 
 pypandoc.download_pandoc()
@@ -38,6 +38,8 @@ sources = [
 for source in sources:
     rss_page = get_webpage(source["link"])
     source_name = source["name"]
+    if not os.path.exists(source_name):
+        os.makedirs(source_name)
     links = get_links_from_rss(rss_page)
     fetched_links=[]
     epub_content=""

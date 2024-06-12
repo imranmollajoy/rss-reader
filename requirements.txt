@@ -3,3 +3,4 @@ feedparser
 pypandoc
 readability-lxml
 lxml_html_clean
+os
