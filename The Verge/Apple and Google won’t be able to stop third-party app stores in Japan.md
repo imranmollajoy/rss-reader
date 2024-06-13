@@ -6,4 +6,10 @@ Apple and Google have already been named designated providers, and any further a
 
 At least one company is already celebrating the news, with Epic Games announcing plans to bring *Fortnite* and its game store platform to iOS in Japan in late 2025. The company is currently also working on bringing those services [back to iOS in the EU](/2024/1/25/24050800/epic-games-store-fortnite-apple-ios-launch-eu-dma) “later this year,” following a hiccup where Apple [banned](/2024/3/6/24092158/epic-apple-developer-account-terminated-digital-markets-act-alternative-ios-app-store) (and then [unbanned](/2024/3/8/24094543/epic-games-ios-developer-license-apple-dma)) its developer account.
 
-[Japan’s FTC said](https://www.jftc.go.jp/file/240612EN3.pdf) the changes were being introduced because it believes smartphone operating systems, app stores, browsers, and search engines are an “oligopoly market” that would take existing antimonopoly laws “a remarkably long time” to address. We have contacted Apple and Google for comment on the ruling but haven’t yet heard back.
+[Japan’s FTC said](https://www.jftc.go.jp/file/240612EN3.pdf) the changes were being introduced because it believes smartphone operating systems, app stores, browsers, and search engines are an “oligopoly market” that would take existing antimonopoly laws “a remarkably long time” to address.
+
+“The Japanese government made a number of changes to the legislation that will help protect user privacy, data security, innovation, and our intellectual property,” Apple spokesperson Fred Sainz said to *The Verge*. “We will continue our engagement with the JFTC during the implementation period as we remain concerned about how the law will impact Japanese consumers and the secure and private iPhone experience our users have come to expect.”
+
+We have contacted Google for comment on the ruling but haven’t yet heard back.
+
+***Update, June 13th:** This article has been updated to include a statement from Apple.*
