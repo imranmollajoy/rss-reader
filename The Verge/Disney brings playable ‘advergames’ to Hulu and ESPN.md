@@ -1,6 +1,6 @@
 Disney is sprinkling a [new kind of playable ad](https://press.disneyadvertising.com/disney-delivers-slate-of-new-streaming-ad-innovation-to-fuel-greater-interactivity-and-engagement) across Hulu and ESPN. The new ad format, called “advergames,” will let you interact with the ads using your remote, as reported [earlier by *Adweek*](https://www.adweek.com/convergent-tv/disney-advergames-shoppable-ads/).
 
-You might see two different advergames to start: *Quiz Show* and *Beat the Block*. While *Quiz Show* presents a series of trivia questions, *Beat the Block* challenges viewers to land golf balls into specific targets using their remote. Of course, they’re branded experiences, as the *Beat the Block* ad features branding for Topgolf, and the *Quiz Show* [game will prominently display](https://www.brightline.tv/quiz-show#static) an ad for a company while you play.
+You might see two different advergames to start: *Quiz Show* and *Beat the Clock*. While *Quiz Show* presents a series of trivia questions, *Beat the Clock* challenges viewers to land golf balls into specific targets using their remote. Of course, they’re branded experiences, as the *Beat the Clock* ad features branding for Topgolf, and the *Quiz Show* [game will prominently display](https://www.brightline.tv/quiz-show#static) an ad for a company while you play.
 
 Quiz Show *replaces your traditional ad break with a sponsored trivia game.*
 
