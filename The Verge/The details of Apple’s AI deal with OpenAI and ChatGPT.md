@@ -1,0 +1,13 @@
+So, Apple [reportedly isn’t paying OpenAI](/2024/6/13/24177550/apple-openai-chatgpt-deal-payment-revenue-sharing-chatbot) to handle its users’ ChatGPT queries, and OpenAI isn’t paying Apple for its massive distribution. (A billion pockets, y’all!) If that’s the case, what do these two companies get out of their blockbuster partnership for all things iOS and AI? And can OpenAI and Apple actually afford to do this, economically and reputationally? It’s a strange pairing, but it’s coming to a device near you this fall.
+
+On [this episode of *The Vergecast*](https://link.chtbl.com/vergecast), we talk about [*Bloomberg*’s reporting](/2024/6/13/24177550/apple-openai-chatgpt-deal-payment-revenue-sharing-chatbot) on the business deal behind Apple Intelligence before rolling through [some of Apple’s new features](/24176837/apple-ios-18-macos-sequoia-beta-updates-wwdc-2024) that didn’t get much (or any) stage time at WWDC. It’s pretty clear Apple is hoping AI will [convince you to buy a new iPhone](/2024/6/12/24176494/apple-intelligence-ai-upgrade-cycle-here), but it’s still hard to tell how much better things are about to get.
+
+After we wrap up the WWDC talk, we get to a bunch of gadget news. There’s [a new Xbox](/2024/6/9/24174793/microsoft-xbox-series-x-white-digital-edition) and a now very obviously [forthcoming handheld Xbox](/2024/6/10/24175149/xbox-handheld-phil-spencer-interview-2024). Jabra made [cool headphones](/2024/6/11/24175608/jabra-elite-10-8-active-gen-2-case-features) and then immediately announced it plans to [stop making headphones](/24176836/jabra-earbuds-retrospective-65t-75t-apple-sony). The [Light Phone 3 looks cool](/2024/6/11/24176026/light-phone-3-launch-price-release-date), MediaTek is apparently [back in the chip race](/2024/6/12/24177129/mediatek-arm-windows-chip-snapdragon-x-elite-competitor), and a ChromeOS overhaul [might be in the works](/2024/6/12/24177311/google-chromeos-android-ai).
+
+Finally, we get into the lightning round, where we talk about a week full of [strange Elon Musk news](/2024/6/12/24176705/spacex-elon-musk-gwynne-shotwell-sexual-relationships), a new study about how people [find news on social media](/2024/6/12/24177053/tiktok-news-pew-social-media-study-x-facebook-instagram), and the future of [one of our favorite movie theaters](/2024/6/12/24177124/sony-buys-acquires-alamo-drafthouse-cinema). Which leads to a long digression on Crackle, because this is *The Vergecast* and that’s just what happens sometimes.
+
+If you want to know more about everything we discuss in this episode, here are some links to get you started, first on WWDC:
+
+And on all the week’s new gadgets:
+
+And in the lightning round:
