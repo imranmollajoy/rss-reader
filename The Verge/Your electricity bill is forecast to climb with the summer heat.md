@@ -1,0 +1,15 @@
+Household electricity bills could climb with rising temperatures this summer in the US, according to an analysis by the Energy Information Administration ([EIA](https://www.eia.gov/todayinenergy/detail.php?id=62303#)).
+
+Americans’ monthly electricity bills will likely average $173 between June through August, compared to $168 last summer, the EIA predicts. The slight bump in costs comes from consumers cranking up their air conditioning more to cope with a warmer season than last year. Bills would have jumped higher, if not for lower residential electricity prices helping to balance out some of the increased energy use from air conditioning.
+
+Some regions are likely to be harder hit by the weather than others. Because of heat and humidity along the Gulf Coast, residents in Southern states typically use the most electricity in the summer to cool their homes.
+
+Some regions are likely to be harder hit by the weather than others
+
+The Pacific Coast, meanwhile, faces the biggest potential percentage increase in retail electricity prices in the nation — a 7 percent jump since last year. Wholesale electricity costs there have risen since 2022, in part because of a [heat and drought-induced shortfall in hydroelectricity generation](/2024/3/26/24112341/drought-heatwave-hydropower-western-us-low). Households along the Pacific could see their electricity bills go up an average of $11 per month this summer, according to the EIA.
+
+To be sure, the EIA says that weather is “the main source of uncertainty” in its forecasts for folks’ utility bills. If this summer winds up being hotter than expected, households could wind up paying even more.
+
+Residential electricity use typically peaks in the summer for most of the US because of air conditioning. Extreme heat can even trigger power outages if demand suddenly rises too sharply. California, the Southwest, the Midwest, Texas, and New England are at “[elevated risk](https://www.eia.gov/todayinenergy/detail.php?id=62243)” of electricity supply shortages during any extreme weather this summer, according to an [assessment](https://www.nerc.com/pa/RAPA/ra/Reliability%20Assessments%20DL/NERC_SRA_2024.pdf) by the North American Electric Reliability Corporation.
+
+It’s the kind of risk that grows with climate change as heat-trapping emissions from fossil fuels push global average temperatures higher. May marked [12 straight months](https://climate.copernicus.eu/copernicus-may-2024-12th-consecutive-month-record-high-temperatures) being the hottest on record for the planet for that time of year. El Niño, the warm phase of the [El Niño–Southern Oscillation (ENSO) climate pattern](https://www.weather.gov/mhx/ensowhat#:~:text=El%20Ni%C3%B1o%3A%20A%20warming%20of,and%20eastern%20tropical%20Pacific%20Ocean.), has also [raised global temperatures](/2024/2/29/24085921/el-nino-forecast-record-heat-2024) since last year but [came to an end](https://www.axios.com/2024/06/13/weather-el-nino-la-nina) [this month](https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml).
