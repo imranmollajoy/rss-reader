@@ -1,0 +1,5 @@
+Early photos from [Apple TV Plus’ upcoming series *Sunny*](/24133912/apple-24-sunny-rashida-jones) left little question about it being a comedy, but the show’s new trailer makes it seem like it’s also going to be a solid (if goofy) whodunit that leaves you guessing.
+
+Set in a semifuturistic modern-day Japan, *Sunny* follows as Suzie Sakamoto (Rashida Jones) sets out to uncover the truth behind her husband Masa’s (Hidetoshi Nishijima) presumed death. Between Masa’s plane crashing under mysterious circumstances and the disappearance of his body, life already feels weird for Sunny as she settles into her new identity as a widow. But when a colleague of Masa’s shows up at Suzie’s door with a bobble-headed domestic robot named Sunny (Joanna Sotomura) as a bereavement gift, things start to take an even stranger turn.
+
+Grief is definitely going to play a role in *Sunny*’s more dramatic moments as Suzie and Sunny learn about the secret life Masa kept hidden from his family. But there are enough jokes and weird twists in the trailer to make *Sunny* look like it’ll be a mystery worth tuning in to when it debuts on July 10th.

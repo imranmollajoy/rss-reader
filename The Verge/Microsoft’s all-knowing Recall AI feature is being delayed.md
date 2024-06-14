@@ -1,0 +1,19 @@
+Microsoft is planning to launch its new Copilot Plus PCs next week without its controversial Recall feature that screenshots everything you do on these new laptops. The software maker is holding back Recall so it can test it with the Windows Insider program, after originally promising to ship Recall as an opt-in feature with additional security improvements.
+
+“We are adjusting the release model for Recall to leverage the expertise of the Windows Insider community to ensure the experience meets our high standards for quality and security,” says Microsoft in an [updated blog post](https://blogs.windows.com/windowsexperience/2024/06/07/update-on-the-recall-preview-feature-for-copilot-pcs/). “When Recall (preview) becomes available in the Windows Insider Program, we will publish a blog post with details on how to get the preview.”
+
+This means that Recall won’t even be available initially to Windows Insiders or anyone who buys a Copilot Plus PC. I wrote in [Notepad earlier today](/2024/6/13/24177703/microsoft-xbox-game-showcase-windows-recall) that Windows engineers were scrambling to get the security improvements tested and implemented in time for the June 18th launch date of Copilot Plus PCs. Now, Microsoft is essentially admitting here that it needs more time to test Recall’s security improvements.
+
+*The Windows Recall feature.*
+
+GIF: Microsoft
+
+Microsoft first [unveiled the Recall feature](/2024/5/20/24159258/microsoft-recall-ai-explorer-windows-11-surface-event) as part of its upcoming Copilot Plus PCs last month, but since then, privacy advocates and [security experts have been warning](/2024/6/3/24170305/microsoft-windows-recall-ai-screenshots-security-privacy-issues) that Recall could be a “disaster” for cybersecurity without changes. Microsoft committed to three major updates to Recall last week, including making the AI-powered feature an opt-in experience instead of on by default, encrypting the database, and authenticating through Windows Hello.
+
+Recall uses local AI models built into Windows 11 to screenshot mostly everything you see or do on your computer and then give you the ability to search and retrieve items you’ve seen. An explorable timeline lets you scroll through these snapshots to look back on what you did on a particular day on your PC. Everything in Recall is designed to remain local and private on-device, so no data is used to train Microsoft’s AI models.
+
+Microsoft’s decision to delay Recall comes just after vice chair and president Brad Smith [testified](https://go.skimresources.com/?id=1025X1701640&xs=1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkB2GCmasH4c) before the House Homeland Security Committee today. [Smith said](https://blogs.microsoft.com/on-the-issues/2024/06/13/microsofts-work-to-strengthen-cybersecurity-protection/) that Microsoft is putting security above everything, as part of its Secure Future Initiative (SFI). “It is more important even than the company’s work on artificial intelligence,” says Smith.
+
+Smith also revealed that Microsoft will make security a mandatory part of its bi-annual reviews process for all employees. “With this change, cybersecurity will be considered in every employee’s annual bonus and compensation,” Smith said.
+
+I reported [earlier today in Notepad](/2024/6/13/24177703/microsoft-xbox-game-showcase-windows-recall) that Recall was originally created before Microsoft’s big SFI overhaul begun. Recall was developed in secret at Microsoft, and it wasn’t even tested publicly with Windows Insiders. Microsoft subsequently identified some of the security issues with Recall and started to develop and test changes to the experience in recent months. It clearly now needs more time to make sure these changes stand up to its promise of putting security above AI and everything else.

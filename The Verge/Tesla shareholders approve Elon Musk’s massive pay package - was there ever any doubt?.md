@@ -1,0 +1,25 @@
+Tesla shareholders voted today to reapprove Elon Musk’s gigantic pay package, after a Delaware court judge [voided it earlier this year](/2024/1/30/24056177/elon-musk-tesla-tornetta-55-billion-pay-package-rejected). Investors also approved a proposal to move the company’s legal home from Delaware to Texas and to reappoint two board members: James Murdoch and Kimbal Musk, Elon’s brother.
+
+The vote was widely seen as [a referendum on Musk’s leadership](/2024/6/12/24177128/tesla-elon-musk-pay-package-shareholder-vote) during a time of great upheaval for Tesla, which has seen its stock price slide on news of [shrinking sales, softening demand, and declining revenue](/24134781/tesla-q1-2024-earnings-sales-market-share-elon-musk). The company has [laid off at least 10 percent](/2024/5/6/24150274/tesla-layoffs-employee-fourth-week-elon-musk-ev-demand) of its workforce, its vehicle lineup is aging and in need of a shake-up, and the success of Musk’s bet on AI and robotics is [far from certain](/2024/4/26/24141361/tesla-autopilot-fsd-nhtsa-investigation-report-crash-death).
+
+In spite of all this, Tesla shareholders handed him an enormous victory by approving a compensation package that makes him one of the highest paid chief executives in modern history.
+
+“I just want to start off by saying, hot damn, I love you guys,” Musk said, after taking the stage with this arms raised in victory.
+
+In some ways, the outcome was entirely predictable. Shareholders clearly wanted to reward Musk’s effort to transform Tesla into the most valuable car company in the world, creating enormous wealth for them in the process. And they wanted to refute those who have questioned his leadership choices in recent years, especially as his attention has wandered to other ventures, like the company formerly known as Twitter.
+
+Tesla has an unusually high proportion of retail investors — also known as mom-and-pop investors — compared to large institutional investors. And while several top proxy advisory firms [have recommended voting against](/2024/6/3/24170368/elon-musk-tesla-pay-package-shareholder-meeting) the proposal, the company’s retail shareholders clearly disagreed.
+
+Even recent negative revelations, like allegations of [sexual misconduct by Musk](/2024/6/12/24176705/spacex-elon-musk-gwynne-shotwell-sexual-relationships) at SpaceX and a [sexual harassment lawsuit](/2024/6/12/24177095/spacex-elon-musk-sexual-harassment-lawsuit) by fired employees, weren’t enough to affect the outcome. Nor has his political [shift to the right](https://www.bloomberg.com/news/articles/2024-06-12/elon-musk-has-made-x-more-right-leaning-study-shows) and his endorsement of many [unhinged conspiracy theories](/2024/3/25/24111405/elon-musk-great-replacement-conspiracy-immigration-don-lemon) on X. Many investors simply didn’t want to risk the value of their shares plummeting if the pay package was rejected.
+
+But Musk can’t just take the money and run. The Delaware court’s ruling striking down his pay package, on the grounds that Musk had undue influence over its composition, still stands. Today’s vote was part of an unusual strategy by Tesla to correct the flaws in the process that first began in 2018.
+
+“It is not automatically reinstated if the shareholders approve it,” said Samantha Crispin, a partner at Texas-based law firm Baker Botts and chair of the corporate department. “I would imagine it would be influential \[and\] it certainly would be something that the judge would take into consideration.”
+
+Tesla is banking on the reapproval aiding in its effort to overturn Delaware Chancery Court Judge Kathaleen St. Jude McCormick’s ruling, which means a likely appeal to the state’s Supreme Court. Still, the outcome is uncertain, with Tesla stating in its [proxy statement](https://www.sec.gov/Archives/edgar/data/1318605/000110465924048040/tm2326076d13_pre14a.htm) that it “cannot predict with certainty how a vote to ratify Musk’s compensation would be treated under Delaware law in these novel circumstances.”
+
+Still, the vote could help keep Musk’s attention on Tesla — as well as its work on AI and robotics. Earlier this year, Musk threatened to spin out the automaker’s work on artificial intelligence into a separate company if he did not receive 25 percent control of Tesla’s stock. He sold approximately $38 billion worth of Tesla stock in 2021–2022 to finance his acquisition of Twitter and now heads six other companies. With today’s vote, Musk’s stake could potentially rise to 20 percent, from about 13 percent today.
+
+In the run-up to the vote, Tesla used both carrots and sticks to whip the vote. The company dangled an exclusive tour of the Austin factory led by Musk himself as a potential prize for select investors. It also issued an ominous warning that a failure to approve the pay package could spur Musk to abandon Tesla.
+
+The idea of Musk leaving his post at Tesla seems far less likely now that shareholders have confirmed his status as one of the most well-compensated person on the planet. But the saga of his pay package isn’t over yet.
