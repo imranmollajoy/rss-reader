@@ -1,0 +1,15 @@
+Siri may do more than make the edges of your iPhone a glowy rainbow when iOS 18 drops this fall. Apple Intelligence features [won’t be out until 2025](/2024/6/12/24176494/apple-intelligence-ai-upgrade-cycle-here) for anyone not testing them in beta this year, but reports suggest that Siri itself will still get natural language updates and other key features before the year is out.
+
+For instance, users will be able to type to Siri without [diving into accessibility settings](https://arc.net/l/quote/foterpcs), and it will be more conversational, understanding you even when you trip over your words, [according to Mark Gurman](https://www.bloomberg.com/news/newsletters/2024-06-16/when-is-apple-intelligence-coming-some-ai-features-won-t-arrive-until-2025-lxhjh86w?srnd=undefined) in today’s *Power On* newsletter for *Bloomberg.*
+
+*Apple could offer instructions for how to do things in iOS this year.*
+
+Image: Apple
+
+He also writes that Siri will “have greater knowledge of Apple products,” presumably referring to the device support features Apple mentioned during its [Worldwide Developers Conference keynote](/2024/6/10/24171999/apple-wwdc-2024-news-rumors-announcements-ios-18-ai).
+
+For another fun tidbit: Right now, iOS 18 beta testers can [change Siri’s wake word](/2024/6/16/24179535/hello-computer) to whatever they want using a [new accessibility feature](/2024/5/15/24157271/apple-eye-tracking-speech-motion-sickness-accessibility-features) called Vocal Shortcuts by going to Settings &gt; Accessibility &gt; Vocal Shortcuts &gt; Set Up Vocal Shortcuts &gt; Siri (not “Siri requests”), as [*9to5Mac* wrote last week](https://9to5mac.com/2024/06/13/ios-18-can-perform-actions-based-on-any-voice-command-you-set/). You have to pause after saying the new wake word or your phone won’t acknowledge it, and the change doesn’t extend to your HomePods. But crucially, the new wake word works even if you turn off “Hey Siri” in the current developer beta. That’s great news if you’re tired of your iPhone activating when you’re trying to talk to your HomePod.
+
+Apart from direct Siri improvements, Apple has also said ChatGPT will be available [for free in iOS 18 later this year](/2024/6/10/24174786/apple-openai-partnership-chatgpt-wwdc), though Gurman writes that it may not make the first version of iOS 18. When it comes, Siri will offer to punt requests it can’t handle to a GPT-4o-powered ChatGPT, giving users the opportunity to agree or decline (along with a [disclaimer about its trustworthiness](/2024/6/10/24175699/siri-warns-you-that-chatgpt-might-be-lying)).
+
+We won’t know until any of this rolls out if Siri is actually getting good now, but there are at least signs that we could finally [get the digital assistant we’ve been waiting for](/2024/6/8/24172902/apple-siri-ai-2024-wwdc). It’s not clear if the upgraded Siri won’t come to HomePods or iPhones other than the iPhone 15 Pro, though, like Apple Intelligence. Hopefully, the Siri improvements stand apart from the new generative AI features, and less-capable devices like the iPhone 15 and iPads without Apple’s M-series chips will get at least some of them.
