@@ -1,0 +1,23 @@
+At the beginning of a recent photo walk with a Nikon representative, I was told it was only a matter of time before I became a “birder”. Because eventually every photographer runs out of things to take photos of and is left with only one subject to master: birds. Which, because of advancements in sensor technology, have become a much easier target. 
+
+*The Nikon Z6 III has an articulating back screen that is typical of hybrid photo / video cameras.*
+
+It was on this same photo walk that I got a few hours with the new $2,500 Nikon Z6 III. And the big news in this camera is its 24.5-megapixel partially stacked CMOS sensor. This is the first camera, ever, to employ this technology. Instead of the circuit parts and pixel area both stretching the full corner-to-corner dimensions of the image sensor and sitting on top of each other, as in the more expensive [Nikon Z9](/23562434/nikon-z9-mirrorless-camera-test-review-video) or [Nikon Z8](/23716991/nikon-z8-mirrorless-camera-price-specs-hands-on), or not being stacked at all, as in the previous [Nikon Z6 II](/2020/10/14/21515666/nikon-z6-z7-ii-features-specs-price-4k-60fps), the Z6 III’s circuit parts are stacked as bars on the top and bottom of the pixel area. 
+
+It results in higher continuous shooting rates, faster autofocus, higher video frame rates, and less rolling shutter effect than the previous Z6 II, with its BSI CMOS sensor in e-shutter mode. But it also means that the Z6 III is not as speedy as the more premium Z8 or Z9 with their fully stacked sensors. In simple terms, partially stacking the sensor allows Nikon to keep this camera’s price below that of the Z8 and Z9 while also much improving the performance of it over the previous generation.
+
+The other important updates are the Z6 III’s incredibly bright electronic view finder that can reach a peak brightness of 4,000 nits and the cameras ability to film 6K RAW video at up to 60fps and 4K RAW up to 120fps. Nikon is also promising Z8 level build quality, which means the camera is dust and moisture sealed and rated for operation down to 14°F/−10°C. Simply put, Nikon builds very resilient cameras that don’t skimp on specs. And also cameras that can turn any photographer into a birder.
+
+*The handgrip on the Nikon Z6 III is deep enough for long-term comfort.*
+
+I chose the Staten Island Ferry for my photo walk with the Z6 III because of its endless opportunities for people watching and incredible views of lower Manhattan and the Statue of Liberty. Match that with the boat’s iconic orange color and you are guaranteed at least a few great shots. What I had never paid much attention to before were all of the birds using the boat’s slipstream to move across the harbor. 
+
+While the Z6 III does not have a dedicated bird focus mode, Nikon claims that its autofocus is 20% faster than the Z6 II and has an extended range down to -10EV, meaning it is more sensitive even in lowlight conditions. And while on the back of the ferry, it had absolutely no trouble locking onto birds. Within minutes of taking off from Lower Manhattan I was whipping the Z6 III from left to right attempting to capture seagulls. Eventually I smartened up and framed One World Trade Center and waited for a bird to cross my frame. And as soon as a bird would enter the camera locked right the moving object that was a seagull. Within minutes I had shot well over 100 photos.
+
+##### *Photos taken with the Nikon Z6 III + Nikon NIKKOR Z 28-400mm f/4-8 VR Lens*
+
+There of course then came the moment I thought “what the hell am I going to do with all these photos of birds”. Which is why I would like to thank you all for clicking through the above slideshow and giving my new found passion for bird photography a reason to exist.
+
+Much like the Z8 and Z9, Nikon increasingly makes cameras that are so responsive and intuitive that you no longer have to spend as much time thinking about problems such as focus, hand shake, or shutter speed. You can quickly point the camera in any direction and it will capture something in focus.
+
+That being said, there is only so much I could test in my few hours with this camera. I didn’t have a low light environment to test the ISO ranges or low light autofocus, I didn’t have multiple subjects to test skin tone representation on, and I didn’t have ND filters in order to get a proper video exposure for testing 6K RAW. So while I had a lot of fun, and am now a certified “birder” there is certainly a lot more testing that needs to be done on this new partially stacked sensor technology. But in my short time with it, I can confidently say that in no way did it feel like a step back. The Z6 III will be available starting today for $2,500.
