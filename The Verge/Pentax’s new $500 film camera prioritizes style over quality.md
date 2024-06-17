@@ -1,0 +1,17 @@
+I used to lambaste the very idea of half-frame cameras when I was a college student obsessed with medium- and large-format film (who wants even *less* resolution than 35mm?), but electing to shoot film today is already a conscious decision to compromise quality for the sake of experience and style.
+
+*Who needs resolution when you’ve got vibes?* That’s what Pentax seems to be saying with its new Pentax 17, a film camera that takes half-size pictures and looks about as timeless as an old beater you scored at some dude’s estate sale. But the $499.95 Pentax 17 (launching later this month) is a totally new camera, one that, in 2024, takes the so-hot-right-now 35mm format and shoots *smaller* pictures for the sake of fun and making film photography cost a little less.
+
+Half-frame cameras aren’t a new idea. [Olympus](https://www.olympus-global.com/technology/museum/camera/products/pen/pen-ff1.8/?page=technology_museum) had an entire line dedicated to making these tiny images back in the ’60s, and [Kodak](https://www.amazon.com/KODAK-Reusable-Focus-Free-Lightweight-Included/dp/B0B1J582SJ?tag=theverge02-20) has one now with the look, feel, and feature set of a disposable camera that you can reload film into.
+
+The Pentax 17 handles things just like its half-frame predecessors: instead of capturing a horizontal 24 x 36mm image on a 35mm roll, it creates a vertical 17 x 24mm picture so you get two shots for every one, making a 36 exposure roll eke out a whole 72 shots. This saves you some money, with the tradeoff being that a smaller image area records less fine detail. (It also means you’re natively taking portrait-oriented shots since the viewfinder is vertical, and you’d have to turn the camera sideways to take horizontal shots.)
+
+*A simulation of how the Pentax 17’s half-frame images are captured on a segment of 35mm film.*
+
+Image: Ricoh Imaging
+
+The Pentax 17 uses a built-in 25mm f/3.5 lens (equivalent to 37mm on a 35mm / full-frame camera) with a nine-bladed aperture. The lens has no autofocus, but it also isn’t fully manual — you use zone focusing by picking from one of six set distances ranging from as close as 0.24 meters in macro mode to infinity. Relying solely on zone focusing means the Pentax 17 is best equipped for casual snapshots or slice-of-life genres like street photography.
+
+As for exposure modes, the 17 doesn’t have full manual control here, either. It’s mostly designed to be used in program auto mode, but it does have an exposure compensation dial as well as slow shutter and bulb modes so savvier photographers can at least have some creative control.
+
+This camera lacks features you’d find in even a 48-year-old Pentax K1000 you can buy off eBay for around $100, as it doesn’t have interchangeable lenses or full control of settings such as focus and exposure. But still, it offers a unique experience (as well as a new warranty and first-party repairs). This is the first camera from [Pentax’s film project](https://www.ricoh-imaging.co.jp/english/pentax/filmproject/) it announced back in 2022, when it set out to make a new film camera with feedback from its community. While it might have been a safer bet to remake the fan-favorite K1000 or the highly coveted [Pentax 67](https://www.japancamerahunter.com/2019/04/camera-geekery-pentax-67/) and its lovely wood handle, I give props to Pentax for taking a chance on something a bit different.
