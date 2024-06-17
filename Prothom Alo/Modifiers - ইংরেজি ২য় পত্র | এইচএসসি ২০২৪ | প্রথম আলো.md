@@ -1,0 +1,7 @@
+Deforestation means cutting down of trees (a) \_\_\_\_ (post-modify the verb). To meet up the basic needs of food and housing, trees are being cut in large scale and thus it causes (b) \_\_\_\_ (pre-modify the noun) imbalance. Besides, there are some dishonest people who cut trees in our forest (c) \_\_\_\_ (use an infinitive phrase to post-modify the verb). The (d) \_\_\_\_ (use a noun adjective to pre-modify the noun) level is rising and many parts of the world are going to be engulfed by the sea in near future. New areas of the world are (e) \_\_\_\_ (use a participle to pre-modify the verb) turned into desert as a result of deforestation. So, we must stop (f) \_\_\_\_ (use a participle to post-modify the verb) down trees unnecessarily. (g) \_\_\_\_ (use a participle to pre-modify the noun) trees indiscriminately will be hazardous for our future existence. If we destroy trees 
+
+\(h\) \_\_\_\_ (use an adverbial phrase to post-modify the verb) one day, the country will turn into a great desert. The (i) \_\_\_\_ (use a participle to pre-modify the noun) temperature will cause greenhouse effect. Necessary measures should be taken (j) \_\_\_\_ (use an infinitive phrase to post-modify the verb). 
+
+Answer: a. indiscriminately/at random/recklessly; b. ecological; c. to earn money illegally; d.water; e. going to be/being; f. cutting; g. Cutting/Destroying; h. in a merciless way/at random; i. increasing/growing; j. to stop deforestation/to maintain the ecological balance.
+
+**মো. জসিম উদ্দীন বিশ্বাস,** সহকারী অধ্যাপক, ঢাকা রেসিডেনসিয়াল মডেল কলেজ, ঢাকা

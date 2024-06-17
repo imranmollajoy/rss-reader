@@ -1,0 +1,15 @@
+The thinness of the OLED iPad Pro is only the beginning of a renewed effort by Apple to make increasingly thin computers, [according to *Bloomberg’*s Mark Gurman](https://www.bloomberg.com/news/newsletters/2024-06-16/when-is-apple-intelligence-coming-some-ai-features-won-t-arrive-until-2025-lxhjh86w?srnd=undefined) in today’s *Power On* newsletter. The company plans a “significantly skinnier” iPhone 17 and is also working on shaving off some of the thickness of the MacBook Pro and the Apple Watch, he writes.
+
+It’s not the first time we’ve heard about a new, extremely thin “iPhone 17 Slim,” as [*The Information* and multiple supply chain analysts](/2024/5/17/24159114/iphone-17-slim-rumor-2025) have reported that this phone is on its way, possibly at a higher price than the existing iPhone 15 Pro Max. I haven’t seen concrete rumors about just *how* slim it will be, but it could have a 6.6-inch display and a smaller Dynamic Island.
+
+*Thickness has its advantages.*
+
+Photo by Amelia Holowaty Krales / The Verge
+
+It’s not surprising that the company wants to go back to its pursuit of thinness, but the key difference now — one hopes — is that the company no longer wants to do it seemingly at all costs. That drive created some of the company’s most impressive devices, but it may also have led to [bendy iPhones](/circuitbreaker/2018/5/24/17389220/apple-bendgate-internal-documents-iphone-6-plus), limited port selection, cruddy battery life, [thermal throttling issues](/2018/7/24/17605652/macbook-pro-thermal-throttling-apple-software-fix), [bad keyboards](/2020/5/4/21246223/macbook-keyboard-butterfly-magic-pro-apple-design), and lawsuits for Apple itself. The company started reversing that trend though, and today, the iPhone 15 Pro phones and the MacBook Pro lineup are among the thickest of their respective categories the company has released in years.
+
+I’ve welcomed those changes, but I would be lying if I said I don’t sometimes miss that old-time futuristic feel. I have an iPhone SE sitting on my desk, and any time I pick it up, I’m astounded by how nice it is to use, small screen and chugging processor notwithstanding. I also toss an envious side-eye at iPhone 12 or 13 Minis when I see them.
+
+That time may be coming back, and without the costs that were once associated with it. The [current MacBook Air](/24114684/apple-macbook-air-m3-13-15-inch-2024-review) is uncannily thin — even more so than the tiny, [fanless 12-inch MacBook](/2015/4/9/8372335/12-inch-macbook-review) — yet it’s powerful and so battery-sipping that I feel perfectly comfortable taking it out of the house without a charger most of the time. And I gather from David Pierce’s *Verge* [review of the new iPad Pro](/24155440/apple-ipad-pro-2024-review) that being thinner than an iPod Nano hasn’t come with any major compromises that iPads didn’t already have.
+
+Those are encouraging signs that the company may have finally figured things out, and hopefully it won’t get out over its skis again. Because after the last few years, I’m not interested in returning to the thin-for-the-sake-of-thin life; sturdiness and all-day battery are now non-negotiable.
