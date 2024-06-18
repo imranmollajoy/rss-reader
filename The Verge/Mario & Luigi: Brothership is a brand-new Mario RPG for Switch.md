@@ -1,0 +1,9 @@
+To start off Nintendo’s Summer Game Fest-adjacent Direct, the company debuted a new *Mario & Luigi* game: *Mario & Luigi: Brothership*. It’s been nine years since the last *Mario & Luigi* game, *Bowser’s Inside Story,* which debuted in 2009 on the Nintendo DS before being rereleased with extra content and a whole new side story on the 3DS in 2018.
+
+In *Brothership*, the Mario Bros commandeer their own sailing ship to explore an all-new world dotted with islands in their quest to return to the Mushroom Kingdom. The two must work together using their powers of brotherly love to overcome obstacles and beat bosses.
+
+Mario has had a string of big releases as of late. May saw the long-awaited remake of [*Paper Mario: The Thousand-Year Door*](/2023/9/14/23873435/nintendo-switch-paper-mario-the-thousand-year-door-trailer), which, taken alongside November’s [*Super Mario RPG* remake](/23960646/super-mario-rpg-review-nintendo-switch) and 2020’s [*The Origami King*](/21324614/paper-mario-the-origami-king-review-nintendo-switch), rounded out the Switch as [an excellent *Mario* RPG machine](/24162364/paper-mario-rpg-nintendo-switch). Nintendo released a [*Mario* vs. *Donkey Kong* remake in February](/23872870/mario-vs-donkey-kong-nintendo-direct-trailer). And *Super Mario Bros. Wonder* was [one of the best games of 2023](/23920647/super-mario-bros-wonder-review-nintendo-switch).
+
+And, of course, there’s the juggernaut that was [*The* *Super Mario Bros. Movie*](/23669598/super-mario-bros-movie-review)*,* which earned [more than $1 billion at the box office](/2023/5/1/23695720/nintendo-mario-movie-billion-box-office). Unsurprisingly, a sequel is in the works, and it’s scheduled to release [in April 2026](/2024/3/10/24096213/super-mario-bros-movie-2-sequel-2026).
+
+You won’t have to wait long to play the newest *Mario* game as *Mario & Luigi: Brothership* launches on the Nintendo Switch on November 7th.

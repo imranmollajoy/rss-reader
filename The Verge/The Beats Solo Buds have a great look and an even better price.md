@@ -2,7 +2,7 @@ The first under-$100 true wireless earbuds from Beats (and, by extension, Apple)
 
 But therein lies one of the tradeoffs that the company made to hit this lower price point. See, unlike basically all competitors on the market, this case doesn’t include a battery for recharging the buds whenever you’ve put them away. Instead, Beats decided to give the earbuds themselves a marathon 18-hour battery life, after which you’ll need to plop them into the case and recharge them over USB-C. In theory, this could help the Solo Buds last longer since they’re likely to go through fewer charge cycles over their lifetime. But it’s an important thing to be aware of.
 
-***Note:** Beats provided* The Verge *with a non-mass-production sample of the Solo Buds. As a result, this is an unscored first look. Stay tuned for further coverage on voice call performance and more. *
+***Note:** Beats provided* The Verge *with a non-mass-production sample of the Solo Buds. As a result, this is an unscored first look. Stay tuned for further coverage on voice call performance and more once we receive the shipping version.*
 
 The *other* feature that’s nowhere to be found is noise cancellation. The [Solo 4 headphones](/24145150/beats-solo-4-headphones-review) lack ANC, and the Solo Buds similarly depend on natural noise isolation from their silicone ear tips to reduce the loudness of your surroundings. Beats bundles four sets of tips with them, including an extra-small size for those who need it. I found the buds plenty comfortable, and each earbud has laser-cut venting to reduce unpleasant ear clogging.
 

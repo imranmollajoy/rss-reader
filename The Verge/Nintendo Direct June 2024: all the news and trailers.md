@@ -1,1 +1,3 @@
-By <span class="duet--article-byline-and"></span> <span class="font-medium"><a href="/authors/andrew-webster" class="hover:shadow-underline-inherit">Andrew Webster</a></span><span class="text-gray-13">, <span class="duet--article--dangerously-set-cms-markup">an entertainment editor covering streaming, virtual worlds, and every single Pokémon video game. Andrew joined The Verge in 2012, writing over 4,000 stories.</span></span>
+A new Mario Party game is here to ruin your family relationships.
+
+Nintendo’s newest *Mario Party* game is here. *Super Mario Party Jamboree* features over 110 new minigames, 20-player online multiplayer, new locations, and new features that will undoubtedly infuriate your friends and family. And best yet, it launches October 17th, just in time for the family holiday get-togethers!
