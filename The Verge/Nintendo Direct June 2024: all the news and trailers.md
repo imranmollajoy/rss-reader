@@ -1,3 +1,5 @@
-A new Mario Party game is here to ruin your family relationships.
+Dragon Quest III HD-2D Remake finally has a release date.
 
-Nintendo’s newest *Mario Party* game is here. *Super Mario Party Jamboree* features over 110 new minigames, 20-player online multiplayer, new locations, and new features that will undoubtedly infuriate your friends and family. And best yet, it launches October 17th, just in time for the family holiday get-togethers!
+The game, first announced [in 2021](/2021/5/27/22456124/dragon-quest-xii-announced-35th-anniversary-event), is coming out on November 14th, 2025, and it looks incredible in [a new trailer](https://www.youtube.com/watch?v=1ltsk99E-RY). It’s set to release on Switch, PS5, Xbox Series X / S, Steam, and Windows.
+
+And that’s not all: an HD-2D remake of the first two *Dragon Quest* games is coming in 2025.
