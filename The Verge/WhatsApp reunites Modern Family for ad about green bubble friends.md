@@ -1,0 +1,11 @@
+Four members of ABC’s *Modern Family* cast have returned to their roles to star in a new commercial for WhatsApp. The ad is designed to promote WhatsApp to families that use a mix of iPhones and Android devices, so they can avoid green bubbles and the limitations of Apple’s group chat MMS solution.
+
+If you’re an iPhone user in the US you probably already avoid inviting Android friends into group chats, as it switches from iMessage to MMS and the regular Messages functionality like read receipts, encryption, and full resolution images are all disabled. WhatsApp hits on this directly in its commercial, with Julie Bowen (Claire Dunphy) explaining to Jesse Tyler Ferguson (Mitchell Pritchett) that “blurry photos” and “weird likes” are why he hasn’t been invited to the group chat with his new Android phone.
+
+“Don’t make this family’s mistake - switch to WhatsApp for seamless and private messaging across all phones,” is the tagline for the commercial, that also stars Ty Burrell (Phil Dunphy) and Eric Stonestreet (Cameron Tucker).
+
+The timing of the WhatsApp ad comes as Apple begins adding Rich Communication Services (RCS) support [to iOS 18](/2024/6/10/24171315/apple-messages-rcs-ios-18-imessage-green-bubble) to replace the aging SMS standard. Meta’s commercial plays on the years of [taunting](/2023/10/10/23910941/samsung-rcs-shaming-apple-getthemessage) and [cajoling](/2022/8/9/23297951/google-apple-rcs-adoption-campaign-getthemessage-blue-green-messages) over green bubble friends, but it might only have months to make its point ahead of the RCS support in iOS 18.
+
+Apple barely acknowledged its RCS plans during its WWDC keynote earlier this month, and we [still don’t know much](/2024/6/15/24178470/apple-rcs-support-wwdc-announcement-android-imessage) about how exactly Apple will implement it. RCS support in iOS 18 is still a big deal though, and one that might make it even harder for WhatsApp to convince iPhone users to switch their group chats over.
+
+Still, at least *Modern Family* fans get to see some of the original cast back together again for a brief spot. The show ended four years ago, and [*Hollywood Reporter*](https://www.hollywoodreporter.com/tv/tv-news/modern-family-reboot-whatsapp-ad-original-cast-1235925415/) notes there are no plans for a *Modern Family* reboot.

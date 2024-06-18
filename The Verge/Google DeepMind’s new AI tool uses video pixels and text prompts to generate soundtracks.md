@@ -1,0 +1,15 @@
+Google DeepMind [has taken the wraps off](https://deepmind.google/discover/blog/generating-audio-for-video/) of a new AI tool for generating video soundtracks. In addition to using a text prompt to generate audio, DeepMind’s tool also takes into account the contents of the video.
+
+By combining the two, DeepMind says users can use the tool to create scenes with “a drama score, realistic sound effects or dialogue that matches the characters and tone of a video.” You can see some of the examples posted on DeepMind’s website — and they sound pretty good.
+
+For [a video](https://youtu.be/gAc_PusvZkQ?si=Dwkjtff-ahhG-Qxw) of a car driving through a cyberpunk-esque cityscape, Google used the prompt “cars skidding, car engine throttling, angelic electronic music” to generate audio. You can see how the sounds of skidding match up with the car’s movement. Another [example creates](https://go.skimresources.com/?id=1025X1701640&xs=1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Ftime_continue%3D4%26v%3D9Q0-t8D9XFI%26embeds_referring_euri%3Dhttps%253A%252F%252Fdeepmind.google%252F%26embeds_referring_origin%3Dhttps%253A%252F%252Fdeepmind.google%26source_ve_path%3DMjM4NTE%26feature%3Demb_title) an underwater soundscape using the prompt, “jellyfish pulsating under water, marine life, ocean.”
+
+Even though users can include a text prompt, DeepMind says it’s optional. Users also don’t need to meticulously match up the generated audio with the appropriate scenes. According to DeepMind, the tool can also generate an “unlimited” number of soundtracks for videos, allowing users to come up with an endless stream of audio options.
+
+That could help it stand out from other AI tools, like the [sound effects generator from ElevenLabs](/2024/5/31/24168898/elevenlabs-prompt-generative-ai-content), which uses text prompts to generate audio. It could also make it easier to pair audio with AI-generated video from tools like [DeepMind’s Veo](/2024/5/14/24156344/veo-is-googles-new-ai-video-generator) and [Sora](/2024/2/15/24074151/openai-sora-text-to-video-ai) (the latter of which plans to eventually incorporate audio).
+
+DeepMind says it trained its AI tool on video, audio, and annotations containing “detailed descriptions of sound and transcripts of spoken dialogue.” This allows the video-to-audio generator to match audio events with visual scenes.
+
+The tool still has some limitations. For example, DeepMind is trying to improve its ability to synchronize lip movement with dialogue, as you can see in this [video of a claymation family](https://go.skimresources.com/?id=1025X1701640&xs=1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9poxIQNPXdM%26t%3D6s). DeepMind also notes that its video-to-audio system is dependent on video quality, so anything that’s grainy or distorted “can lead to a noticeable drop in audio quality.”
+
+DeepMind’s tool isn’t generally available just yet, as it will still have to undergo “rigorous safety assessments and testing.” When it does become available, its audio output will include [Google’s SynthID watermark to flag that it’s AI-generated](/2023/8/29/23849107/synthid-google-deepmind-ai-image-detector).
