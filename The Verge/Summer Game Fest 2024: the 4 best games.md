@@ -1,0 +1,35 @@
+With [Summer Game Fest](/24170561/summer-game-fest-2024-trailers-news-geoff-keighley) over, it’s time to take a look back at some of the stand-out hits of the show. I don’t mean the most exciting reveals, but the best games I actually got to play. The SGF space was full of interesting games, some from high-profile studios and others from indie outfits. And there were some games that were surprisingly fun that I only discovered by just picking up a controller and playing.
+
+#### *Kunitsu-Gami: Path of the Goddess*
+
+Though I’ve seen trailers for Capcom’s sumptuous-looking game, I was never quite sure what it was about. I thought it was a generic hack-and-slash game dressed up in the richness of Japanese mythology, but I was surprised and frankly delighted to discover it’s a tower defense game. Your job is to protect a shrine maiden as she works to purge corruption from the land. Gameplay is divided into two sections: day and night. In the daytime, you go through a village rescuing inhabitants from the corrupting infection. At night, you protect the shrine maiden from demons as she slowly works her way through the village purging it of evil. 
+
+I really enjoyed *Kunitsu-Gami*’s novel twist on the genre. The villagers you rescue become part of your army, and you assign them jobs to assist in the maiden’s defense. The woodcutter is a powerful melee attacker that works as your first line of offense, while the monk uses their holy power to freeze demons in place, making them easy targets. Once the fight is over, there’s a base-building element that has you upgrading and unlocking jobs and acquiring new powers for your warrior. 
+
+I’m really glad I took a chance to play *Kunitsu-Gami*. I love strategy-type games, especially when they’re dressed in such a richly ornate art style. I found myself staring at everyone’s clothing, looking at the details, and wondering what significance each little piece had. It releases July 19th on Xbox, PlayStation, and PC.
+
+#### *Star Wars Outlaws*
+
+I’m not a *Star Wars* person — but *Star Wars Outlaws* was enough to intrigue my Force-agnostic ass. My hands-on was divided into three chunks: ship-to-ship combat, stealth combat, and platforming. Since the children (i.e., me) yearn for *Ace Combat* ([Thanks, Bandai Namco](https://x.com/BandaiNamcoUS/status/1803080642080473426)!), I decided to try the ship first. Before setting off, I had to do a little stealth section to get to my ship that involved a couple of hacking mini-games. Usually, hacking mini-games are tedious and terrible (looking at you, *Mass Effect*), but I enjoyed both of them, especially the data spike mini-game that involves turning a tumbler in time with rhythmic clicks. 
+
+Once in space, I had a great time. The controls were very responsive, and I didn’t feel like I had to fight to keep my target in front of me like in other aerial combat games. I also enjoyed how the game doesn’t automatically reorient you if you turn the ship upside down, because it’s space, and there is no up or down. Toward the end of the demo, there was a moment where I flew down from space to the surface of a planet, and it all looked very seamless, a true “you can go anywhere” moment (even though I’m sure there’s some game developer trickery involved).
+
+For the stealth mission, I wasn’t very stealthy, frequently blowing up an enemy instead of distracting them with Nix, my pet axolotl-looking thing. It turns out Nix is very useful as a distraction and a retriever. You can have it fetch the guns your enemies have dropped for when you need a bit of extra firepower. Your main weapon is a simple blaster equipped with special ammo; the default blaster setting takes out humanoid enemies, while the plasma setting is effective on droids. During one encounter involving a shallow water feature, I thought it’d be clever to shoot the water with plasma in hopes of electrocuting the enemies standing in it. Unfortunately, the game didn’t work that way.
+
+The platforming section was the weakest bit because it didn’t really do much new. There’s a grappling hook to make use of, but other than that, my scoundrel Kay Vess simply runs, jumps, and climbs up bright yellow grates and ledges like anyone else. Overall, I was once again pleasantly surprised. *Star Wars Outlaws* launches on Xbox, PlayStation, and PC on August 30th.
+
+#### *Arranger: A Role Puzzling Adventure*
+
+*Arranger* is a puzzle game well-suited for mobile, which might explain why it was prominently featured in the Netflix booth. You play as a messy girl named Jemma who has a quirky way of moving through the world. As you slide your finger up and down or side to side, the world moves with her, either horizontally or vertically, moving everything on that axis along with her. You use that unique movement to solve puzzles or get around impassable obstacles. To Jemma, a locked door means nothing: she can warp to the other side once she reaches the end of a row or column.
+
+One thing I appreciate about games is how you are always in conversation with the developers; I enjoy when I’m able to hear their voice in the way they design their games. There was a moment early on when I couldn’t figure out how to solve a pressure plate puzzle. Confused, I left the room only to find two strategically-placed planters. I didn’t yet know you could bring objects from room to room, so upon seeing the planters, I had this very obvious (and audible) “Aha!” moment. The developers could have left a planter or other object in the room with me to make the puzzle easier, but I would have missed out on deepening my understanding of the game’s mechanics.
+
+*Arranger* comes out on Switch, PlayStation, PC, and mobile via Netflix on July 25th.
+
+#### *Astro Bot*
+
+Playing *Astro Bot* was joyful. I, of course, enjoyed all the games I’ve highlighted here, but *Astro Bot* was the one that had me giggling and kicking my feet like a 10-year-old given free rein of a candy store. A mascot platformer, in the year 2024… we might be back, y’all! Astro jumps, kicks off walls, and can hover in the air evoking the feeling of Mario. But even though the game is mechanically similar, *Astro Bot* feels uniquely charming. Astro squeaks, squeals, cheers, and waves — his enthusiasm and happiness are so infectious that it’s impossible not to hurt your face grinning as you play.
+
+Strewn throughout bright and cheery levels are robots to rescue, some representing characters from PlayStation’s past. I thoroughly loved panning the camera looking for places off the beaten path and figuring out the best way to get there. I was rewarded every time with a collectible or a secret bot in need of rescue. The different levels also contain different movement abilities akin to the special powerups you might find in Mario. One ability that inflates Astro like a balloon, allowing him to float to out-of-reach areas. Another involves a dog that acts like a jet engine that rockets Astro through tough glass or bounces him off special platforms.
+
+*Astro Bot*, on sheer charm alone, is my game of the show. It launches September 6th on PS5.
