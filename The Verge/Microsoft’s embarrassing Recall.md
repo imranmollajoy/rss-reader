@@ -1,0 +1,11 @@
+Last week, I revealed that Microsoft’s Windows engineers were scrambling to secure its controversial AI-powered Recall feature in time for its planned debut on June 18th. Hours later, [Microsoft announced](/2024/6/13/24178144/microsoft-windows-ai-recall-feature-delay) that the feature that screenshots nearly everything you do on new Qualcomm-powered laptops is being recalled.
+
+Copilot Plus PCs shipped earlier this week without Recall, and Microsoft has modified the setup process to remove it from Windows 11 — it’s now a feature that’s “coming soon” to these devices. Recall is still prominently featured in Microsoft’s marketing materials, which suggests the company is confident it will return very soon.
+
+After developing Recall largely in secret away from the usual Windows Insider public testing, Microsoft is now relying upon that community of thousands to help test the new AI feature on new Copilot Plus devices. Recall will also be an opt-in feature with additional security improvements to address concerns from researchers.
+
+Microsoft first announced its changes to Recall on June 7th, less than two weeks before it was due to ship on new devices. That rush to fix Recall’s security issues always felt like a big ask, especially having to encrypt the database in time and implement Windows Hello authentication, too. I understand Microsoft had been working on some of these changes before the Recall concerns were raised by security researchers, but OEMs already had the final Windows bits shipping on devices, so that further complicated the situation.
+
+The surprise decision to not ship Recall at launch came on Thursday, June 13th, just five days before Copilot Plus PCs were about to ship. Sources tell me OEMs were informed of the delay ahead of a public acknowledgment from Microsoft. But security researcher [Kevin Beaumont got wind](https://x.com/GossiTheDog/status/1801379622187127265) of the Recall announcement, forcing Microsoft to edit a previous blog post in response to press queries.
+
+I had planned to write about my time using Recall over the past couple of weeks, but given the feature has now been delayed, I’ll wait to see what changes before I write up my final impressions. In my limited testing with an early version of Recall, I did notice that the feature failed to filter out URLs correctly from its capture method...
