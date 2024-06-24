@@ -2,7 +2,7 @@ A group of record labels including the big three — Universal Music Group (UMG)
 
 The two AI companies, Suno and Udio, use text prompts to churn out original songs. Both companies have enjoyed a level of success: Suno is available for use in Microsoft Copilot [though a partnership with the tech giant](/2023/12/19/24008279/microsoft-copilot-suno-ai-music-generator-extension). Udio was used to create “BBL Drizzy,” [one of the more notable examples](/2024/5/31/24168844/heres-how-bbl-drizzy-set-a-precedent-for-sampling-ai-generated-music) of AI music going viral.
 
-The case against Suno was filed in Boston federal court, and the Udio case was filed in New York. The labels say artists across genres and eras had their work used without consent.
+[The case against Suno](https://www.riaa.com/wp-content/uploads/2024/06/Suno-complaint-file-stamped20.pdf) was filed in Boston federal court, and [the Udio case](https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf) was filed in New York. The labels say artists across genres and eras had their work used without consent.
 
 The lawsuits were brought by the Recording Industry Association of America (RIAA), the powerful group representing major players in the music industry, and a group of labels. The RIAA is seeking damages of up to $150,000 per work, along with other fees.
 
