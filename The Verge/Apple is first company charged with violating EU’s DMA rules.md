@@ -1,0 +1,19 @@
+Apple’s App Store “steering” policies violate the EU’s Digital Markets Act meant to encourage competition, said regulators in [their preliminary ruling](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3433) Monday. The European Commission has also opened a new investigation into Apple’s support for alternative iOS marketplaces in Europe, including the core technology fee it charges developers.
+
+“Our preliminary position is that Apple does not fully allow steering,” said Margrethe Vestager who heads up competition policy in Europe. “Steering is key to ensure that app developers are less dependent on gatekeepers’ app stores and for consumers to be aware of better offers.”
+
+Under the DMA, Apple and other so-called gatekeepers must allow app developers to steer consumers to offers outside their app stores free of charge. Alphabet, Amazon, Apple, ByteDance, Meta, and Microsoft are the six gatekeepers who had to be fully compliant with rules as of March 2024.
+
+“Throughout the past several months, Apple has made a number of changes to comply with the DMA in response to feedback from developers and the European Commission,” said Apple spokesperson Peter Ajemian in a statement sent to *The Verge*. “All developers doing business in the EU on the App Store have the opportunity to utilize the capabilities that we have introduced, including the ability to direct app users to the web to complete purchases at a very competitive rate. As we have done routinely, we will continue to listen and engage with the European Commission.”
+
+Apple is the first to be charged under the DMA rules after the EU’s competition authority opened [several investigations in March](/2024/3/25/24111232/european-commission-digital-markets-act-investigation). (Meta and Google are also being scrutinized for non-compliance.) Apple has time to respond to the European Commission’s preliminary assessment ahead of its final ruling before March 2025. Apple could be fined up to 10 percent of its annual global revenue for infringement, or $38 billion based on last year’s numbers. That increases to 20 percent for repeat infringements.
+
+Apple had previously been [fined €1.84 billion](/2024/3/4/24005938/european-commission-antitrust-apple-investigation-anti-steering-rules-app-developers) (about $2 billion) by the EU’s antitrust regulators over the App Store’s anti-steering practices in a case that pre-dates the DMA. That fine stemmed from a [2020 lawsuit](/2020/6/16/21292651/apple-eu-antitrust-investigation-app-store-apple-pay) announced after [Spotify filed an antitrust complaint](/2019/3/13/18263453/spotify-apple-app-store-antitrust-complaint-ec-30-percent-cut-unfair).
+
+The European Commission has also opened new proceedings into Apple’s support for [alternative iOS app stores](/24100979/altstore-europe-app-marketplace-price-games). The investigation is focused on the contentious Core Technology Fee, the laborious multi-step process required for users to install the third-party marketplaces, and Apple’s eligibility requirements for developers.
+
+“We have also opened proceedings against Apple in relation to its so-called core technology fee and various rules for allowing third party app stores and sideloading,” said Vestager. “The developers’ community and consumers are eager to offer alternatives to the App Store. We will investigate to ensure Apple does not undermine these efforts.”
+
+On Friday, Apple blamed “[regulatory uncertainties](/2024/6/21/24183251/apple-eu-delay-ai-screen-mirroring-shareplay-dma)” related to the DMA for delaying the rollout of cornerstone iOS 18 features to European users this year. Apple blamed interoperability requirements that could undermine user privacy and data security.
+
+***Update, June 24th: **Added Apple’s statement regarding anti-steering ruling.*
