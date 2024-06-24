@@ -6,4 +6,8 @@ While mirroring to your Mac, your iPhone stays locked. However, if you’re usin
 
 The new SharePlay features let you draw on another person’s screen or control their screen. If you want to try the developer betas for yourself, [check out our guide](/24175976/ios-18-developer-public-betas-install-how-to).
 
-On Monday, Apple also released new developer betas of [visionOS 2](/2024/6/10/24171950/apple-vision-pro-wwdc-2024-visionos-2-first-party-native-apps) and [watchOS 11](/2024/6/10/24170653/apple-watch-watchos-11-features-updates-wwdc). The full releases of the OS upgrades are set for this fall.
+On Monday, Apple also released a new developer beta of [iPadOS 18](/2024/6/10/24140821/apple-ipados-18-features-updates-apps-wwdc-2024), and the beta adds support for alternative app stores and includes other changes to comply with the EU’s Digital Markets Act, [*MacRumors* reports](https://www.macrumors.com/2024/06/24/ipados-18-beta-2-includes-eu-changes/). Apple [had said](/2024/5/2/24147225/apple-ios-iphone-ipad-core-technology-fee-eu) these changes would be coming after the EU [designated iPadOS as a gatekeeper earlier this year](/2024/4/29/24144209/ipados-ipad-eu-commission-dma-rules-compliance-regulation).
+
+Apple also launched new betas for [visionOS 2](/2024/6/10/24171950/apple-vision-pro-wwdc-2024-visionos-2-first-party-native-apps) and [watchOS 11](/2024/6/10/24170653/apple-watch-watchos-11-features-updates-wwdc). The full releases of the OS upgrades are set for this fall.
+
+***Update, June 24th**: Added details about the new iPadOS 18 developer beta.*
