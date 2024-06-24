@@ -1,4 +1,4 @@
-Shopify’s new AI “Sidekick” chatbot is officially launching in early access, the company said as part of its “2024 Summer Edition” updates announced on Monday.
+Shopify’s new AI “Sidekick” chatbot is officially launching in early access, the company said as part of its “Summer ‘24 Edition” updates [announced on Monday](https://go.skimresources.com/?id=1025X1701640&xs=1&url=https%3A%2F%2Fwww.shopify.com%2Fnews%2Fedition-summer-24).
 
 Sidekick, which the company first revealed last year, functions as a support chatbot for merchants, helping them do things like make discount codes, generate reports about your store, or suggest blog post ideas. Sure, it sounds like pretty typical AI chatbot stuff, but it seems like it could be a useful way to get help or assistance, especially if Shopify continues to tailor the chatbot to fit merchant needs.
 

@@ -1,0 +1,13 @@
+Elon Musk may have just won approval for a $56 billion pay package from his adoring supporters, but someone in Fort Lauderdale is clearly not a fan of the controversial CEO. Last week, dozens of Tesla Cybertrucks were defaced with the words “Fuck Elon” in black spray paint, [according to *InsideEVs*](https://insideevs.com/news/724187/tesla-cybertruck-vandals-fudge-elon/) citing [local news reports](https://www.local10.com/news/local/2024/06/22/f-elon-rows-of-tesla-cybertrucks-vandalized-in-fort-lauderdale/).
+
+Police say that 34 stainless steel trucks were tagged with the message, which was discovered on Friday. The Cybertrucks were being stored in the public parking lot, without any fencing or security, likely being held because of a previously [reported problem](/2024/6/17/24180519/tesla-cybertruck-deliveries-windshield-wiper-issue) with the windshield wiper. Tesla is also experiencing an inventory pileup as a result of [cooling demand](/2024/4/23/24134282/tesla-earnings-q1-2024-profit-demand-elon-musk) for its electric vehicles.
+
+Local news reports that the spray paint was easily removed, with a few trucks still showing some black smudges. But thanks to a few social media accounts, we can still experience the uncensored images as much (or as little) as we want.
+
+The graffiti is either a sign of growing discontent with Musk and, by extension, Tesla, or it’s just the work of a lone crank who saw a bunch of Cybertrucks in a parking lot and was inspired to do some redecorating.
+
+The Cybertruck has certainly been a polarizing addition to Tesla’s lineup, thanks to Musk’s demands that the vehicle look like some sort of postapocalyptic, *Blade Runner*-inspired fever dream.
+
+In the months since its release, the truck has racked up its fair share of problems, from complaints about build quality to [disappointment about its range](https://www.cybertruckownersclub.com/forum/threads/range-for-awd-cybertruck-200-250-miles-after-many-real-world-tests.10983/) to a [massive recall](/2024/4/19/24134753/tesla-recall-cybertruck-faulty-accelerator-pedal-nhtsa-defect) over a faulty accelerator pedal. The most recent problem — a “containment hold” on deliveries to fix a malfunctioning wiper blade — is just the latest sign that the most hyped vehicle in modern history is going through a lot of growing pains.
+
+My prediction: Musk starts to sell special edition “Fuck Elon” decals for the Cybertruck, much like he did for the infamous [broken window](/2023/12/1/23983813/botched-cybertruck-demo-immortalized-in-sticker) demonstration. The guy hasn’t met an insult he can’t monetize.
