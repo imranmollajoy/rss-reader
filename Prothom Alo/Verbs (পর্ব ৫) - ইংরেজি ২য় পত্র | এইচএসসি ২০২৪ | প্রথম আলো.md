@@ -1,0 +1,13 @@
+**13.**
+
+Road mishap (a) <u>       </u> (happen) in our country almost everyday. Recently it (b) <u>       </u> (rise) to an alarming rate (c) <u>       </u> (take) a heavy toll of human lives. The members of a family remain anxious if someone (d) <u>       </u> (travel) in a bus. In most cases, reckless driving (e) <u>       </u> (cause) road accidents. Drivers are in the habit of (f) <u>       </u> (violate) traffic rules. Road accidents can be (g) <u>       </u> (lessen) if the drivers drive their vehicles carefully. People should be conscious in this respect. While (h) <u>       </u> (cross) the road, they should be careful. Some people travel (i) <u>       </u> (climb) on the roof of the buses and trains. Traffic rules must be maintained strictly with a view to (j) <u>       </u> (control) road accidents. It is  very shocking that road accidents (k) <u>       </u> (claim) lives very often. The law-enforcing agencies (l) <u>       </u> (take) vigorous drive and the defaulters (m) <u>       </u>(take) under severe punishment to (n) <u>       </u> (ensure) safe journey. 
+
+**Answer:** a. happens; b. has risen; c. taking; d. travels; e. causes; f. violating; g. lessened; h. crossing; i. climbing; j. controlling; k. claim; l. must/should take; m. must be taken; n. ensure. 
+
+**14.**
+
+Most of the people who (a) <u>       </u> (appear) most often and most gloriously in the pages of history, (b) <u>       </u> (be) great conquerors and generals and soldiers, whereas the people who really (c) <u>       </u> (help) civilization forward, are often never (d) <u>       </u>(mention) at all. We do not know who first (e) <u>       </u> (set) a broken leg or launched a sea worthy boat or (f) <u>       </u> (calculate) the length of a year, but we (g) <u>       </u> (know) all about the killers and destroyers. People think a great deal of them, so much so that on all the highest pillars in great cities of the world you (h) <u>       </u> (find) figures of a conqueror or a general or a soldier. And I think that most people (i) <u>       </u> (believe) that the greatest countries are those that (j) <u>       </u> (beat) in the battle the greatest number of countries and ruled over them as conquerors. We are proud of (k) <u>       </u>(have) also the legacy of a glorious history, and our freedom fighters (l) <u>       </u> (be) the real heroes who (m) <u>       </u> (present) us that glory by (n) <u>       </u>(snatch) away the independence of the country.
+
+**Answer:** a. appear; b. are; c. help; d. mentioned; e. set; f. calculated; g. know; h. will find/may find; i. believe; j. beat; k. having; l. are; m. have presented/presented; n. snatching.
+
+**মো. জসিম উদ্দীন বিশ্বাস***, সহকারী অধ্যাপক,* ঢাকা রেসিডেনসিয়াল মডেল কলেজ, ঢাকা

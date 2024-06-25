@@ -1,4 +1,4 @@
-Threads will now let people like and see replies to their Threads posts that appear on other federated social media platforms, the company announced on Monday.
+Threads will now let people like and see replies to their Threads posts that appear on other federated social media platforms, the company announced on Tuesday.
 
 Previously, if you made a post on Threads that was syndicated to another platform — like Mastodon, for example — you wouldn’t be able to see responses to that post while still inside Threads. That meant you’d have to bounce back and forth between the platforms to stay up-to-date on replies. Thanks to this upgrade, you’ll probably do less of that, though you’ll still have to be on the other platform to actually reply to the replies.
 

@@ -1,0 +1,17 @@
+The first soil samples ever taken from the far side of the Moon arrived on Earth today. China’s Chang’e 6 spacecraft landed with the precious cargo in Inner Mongolia today at 2:07PM Beijing time, according to [state media](https://english.news.cn/20240625/499da733664946b6ac0add3c3302dd63/c.html).
+
+The feat is expected to help scientists better understand the unfamiliar terrain of the Moon’s far side and perhaps shed some light on the early history of the Moon and Earth. It’s also a significant milestone in the escalating global space race to establish a presence on the Moon.
+
+A significant milestone in the escalating global space race
+
+President Xi Jinping [congratulated](https://www.cnsa.gov.cn/n6758823/n6758838/c10565300/content.html) the China National Space Administration, calling it a “landmark achievement in our country’s efforts at becoming a space and technological power,” [according to *The* *Associated Press*](https://www.washingtonpost.com/world/2024/06/25/china-far-side-of-moon-probe-samples/57690d9a-32ba-11ef-872a-1d22f44a0d95_story.html).
+
+Chang’e 6 landed on the far side of the Moon on June 2nd, a difficult endeavor because the Moon itself blocks radio signals there. To get around this, Chang’e 6 relied on two lunar satellites China previously launched to facilitate communication between Earth and rovers on the bumpy surface of the Moon’s far side.
+
+After landing at the South Pole–Aitken Basin on the far side of the Moon, the probe used its robotic arm and drilling tools to take soil and rock samples. It also carried payloads from the European Space Agency, France, and Italy for “[scientific exploration](https://english.news.cn/20240604/4f06a149d2914ec8aebc1e9f41c93fea/c.html).”
+
+The South Pole–Aitken Basin is a massive impact crater that likely formed some [4.26 billion](https://www.lpi.usra.edu/meetings/lpsc2012/pdf/2863.pdf) years ago. Compared to the smoother near side of the Moon, the far side is pockmarked with craters from [ancient collisions](https://www.nature.com/articles/d41586-018-01074-6). How these craters formed and what materials they hold are important questions for piecing together the Moon’s history.
+
+“This also has implications for understanding the origins of life on Earth,” the nonprofit The Planetary Society wrote in a [post](https://www.planetary.org/articles/change-6-launch-what-to-expect) about Chang’e 6 earlier this year, citing a theory that asteroids might have [carried](https://www.planetary.org/articles/how-did-earth-get-its-water) water and organic materials to Earth during an event known as the [Late Heavy Bombardment](https://astrobiology.nasa.gov/news/re-thinking-a-critical-period-in-earths-history/). There’s been more [scrutiny](https://www.nature.com/articles/d41586-018-01074-6) lately into how fierce that bombardment actually was. Long-awaited samples from the far side of the Moon could help start to answer some of these questions.
+
+China plans to send its [Chang’e 7](https://www.cnsa.gov.cn/english/n6465652/n6465653/c6813273/content.html) spacecraft to the Moon’s south pole [in 2026](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=CHANG-E-7) to search for water and other resources that could potentially [support long-term missions](/2018/8/23/17769034/nasa-moon-lunar-water-ice-mining-propellant-depots) on the Moon. NASA wants to send the first humans to the lunar south pole region in 2026 as part of its [Artemis III mission](https://www.nasa.gov/mission/artemis-iii/#artemis).
