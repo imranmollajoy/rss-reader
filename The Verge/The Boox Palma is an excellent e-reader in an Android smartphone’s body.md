@@ -4,6 +4,8 @@ In a couple of months of using the Palma, a [$280 device](https://www.amazon.com
 
 Sure, the Palma can technically download TikTok, Instagram, and YouTube. It can even, stutteringly, play videos from those apps. But because of E Ink’s low resolution, slow refresh rate, and overall black-and-white-ness, it’s a crummy enough experience that I’m never tempted to do so. Instead, I find myself doing the things the Palma’s screen is built for. This thing is first and foremost an e-reader. It’s just that, unlike all the other e-readers, this one lets you read in whatever app you like to use.
 
+<span class="small">*If you want to hear more about our thoughts on the Palma, check out*</span> [<span class="small">*this episode of* The Vergecast</span>](https://link.chtbl.com/vergecast)<span class="small">*.*</span>
+
 The first app I downloaded onto the Palma was Amazon Kindle, which is where all my digital books are. And before you’re like, *dude, why didn’t you just buy a Kindle,* the second app I downloaded was Readwise Reader, an app for [reading and organizing longform articles](/24003177/readwise-reader-gta-netflix-day-one-apple-journal-installer-newsletter), PDFs, and just about anything else. Already, I’d accomplished something no other e-reader offers. Then, I downloaded a couple of news apps, Flipboard, and the note-taking app Obsidian.
 
 Two months later, those are still the apps I use most on the Palma. Boox preinstalls a few others, like a voice recorder and a music app, but I barely touched those. Who needs ‘em when I have Android! I downloaded Pocket Casts and Spotify instead, and now my Palma is my iPod in addition to being my Kindle. When I go out for coffee in the morning or to walk the dog in the afternoon, only the Palma comes with me. 
