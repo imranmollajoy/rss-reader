@@ -1,0 +1,7 @@
+Tesla is again issuing a physical recall of its Cybertruck. This time it’s recalling 11,688 of its electric pickups due to [a faulty windshield wiper](/2024/6/17/24180519/tesla-cybertruck-deliveries-windshield-wiper-issue) that could reduce visibility for the driver, and 11,383 Cybertrucks due to trim in the truck bed that could come loose and create a road hazard for others.
+
+Issues with the gigantic wiper had [surfaced in owner forums](/2024/6/17/24180519/tesla-cybertruck-deliveries-windshield-wiper-issue) in recent weeks and reportedly delayed Cybertruck deliveries on short notice. [The NHTSA recall notice](https://www.nhtsa.gov/vehicle/2024/TESLA/CYBERTRUCK/PU%25252FCC/AWD#recalls) for the wiper says that “excessive electrical current can cause the front windshield wiper motor controller to fail.” Tesla service will replace the wiper motor, free of charge. 
+
+Regarding the trim, “Tesla service will apply adhesion promoter and pressure sensitive tape or replace missing applique as necessary, free of charge,” according to [a separate NHTSA notice](https://www.nhtsa.gov/vehicle/2024/TESLA/CYBERTRUCK/PU%25252FCC/AWD#recalls).
+
+Last week, dozens of the polarizing [Cybertrucks were defaced](/2024/6/24/24184698/tesla-cybertruck-vandal-deface-elon-musk) with the words “Fuck Elon” in black spray paint while parked in public parking lot in advance of today’s recalls. But at least [the man got paid](/2024/6/13/24177656/tesla-shareholders-approve-elon-musks-massive-pay-package-was-there-ever-any-doubt).
