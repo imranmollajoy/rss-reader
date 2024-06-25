@@ -1,0 +1,9 @@
+The advanced voice mode for ChatGPT that [sparked a tussle with Scarlett Johansson](/2024/5/20/24161253/scarlett-johansson-openai-altman-legal-action) was an important element of OpenAI’s Spring Update event, where it also revealed [a desktop app for ChatGPT](/2024/5/13/24155573/chatgpt-app-desktop-mac).
+
+Now, OpenAI says it will “need one more month to reach our bar to launch” an alpha version of [the new voice mode](/2024/5/13/24155652/chatgpt-voice-mode-gpt4o-upgrades) to a small group of ChatGPT Plus subscribers, with plans to allow access for all Plus customers in the fall. One specific area that OpenAI says it’s improving is the ability to “detect and refuse certain content.”
+
+As for the new video and screen sharing capabilities that we saw during the event, OpenAI writes that it will “keep you posted” on a timeline. OpenAI had said it would deliver the new capabilities in “the coming weeks.” Now, the company writes that “Exact timelines depend on meeting our high safety and reliability bar.”
+
+The assistant features bearing a troublesome resemblance to Johansson’s virtual character in the movie *Her* were part of OpenAI’s demo, showing how [the GPT-4o-powered bot](/2024/5/13/24155493/openai-gpt-4o-launching-free-for-all-chatgpt-users) could observe the world around the user and respond to it in real time. It could also maintain a conversation far more naturally and tolerate interruptions with what CEO Sam Altman called “human-level response times and expressiveness.”
+
+The desktop app, however, [launched today](https://x.com/OpenAI/status/1805679342439284831) for users on macOS. With the Mac app installed, pressing Option and Space together can open ChatGPT from anywhere, allowing it to chat about whatever’s on your screen at the time. A Windows app is set to arrive later this year.
