@@ -8,6 +8,10 @@ The voice was trained using Michaels’ appearances on NBC, according to the pre
 
 In the press demo where I heard the voice, it sounded convincing, but that’s what you’d expect from a demo. The real test will be when it’s generating millions of unique clips — NBC estimates there could be nearly 7 million personalized variants in the US during the games — crossing dozens of sports, each with its own unique terminology, and identifying an array of athletes from around the globe.
 
-Peacock’s recaps led by the AI Al Michaels will be available starting July 27th in supported browsers and the iOS and Android Peacock apps. The first edition of the recap will feature highlights from the opening ceremony for everyone, and the personalized recaps will start on July 28th.
+Peacock’s recaps led by the AI Al Michaels will be available starting July 27th in supported browsers and the iOS and iPadOS Peacock apps. NBC declined to comment if the recaps will be available on Android.
+
+The first edition of the recap will feature highlights from the opening ceremony for everyone, and the personalized recaps will start on July 28th.
 
 *Disclosure: Comcast, which owns NBCUniversal, is also an investor in Vox Media, *The Verge*’s parent company.*
+
+***Correction, June 26th**: An earlier version of this article misstated which platforms recaps will be available on. NBC has not said whether the feature will appear on Android.*
