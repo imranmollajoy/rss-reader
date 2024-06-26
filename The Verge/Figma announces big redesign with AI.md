@@ -1,6 +1,6 @@
 Figma is announcing a bunch of new features at its Config conference today, including a major UI redesign, new generative AI tools to help people more easily make projects, and built-in slideshow functionality.
 
-Let’s start with the redesign, which is intended to “lay the foundation for the next decade,” according to a blog post. You’ll see things like a new toolbar, rounded corners, and 200 new icons. As part of the design refresh, the company wants to “focus the canvas less on our UI and more on your work” and make something that’s approachable to new users while still being useful to Figma experts.
+Let’s start with the redesign, which is intended to “lay the foundation for the next decade,” [according to a blog post](https://www.figma.com/blog/behind-our-redesign-ui3/). You’ll see things like a new toolbar, rounded corners, and 200 new icons. As part of the design refresh, the company wants to “focus the canvas less on our UI and more on your work” and make something that’s approachable to new users while still being useful to Figma experts.
 
 *Figma’s “UI3.”*
 
@@ -20,7 +20,7 @@ Ideally, all of the new Figma AI tools will allow people who are newer to Figma 
 
 Figma AI is launching in a limited beta beginning on Wednesday, and interested users can get on the waitlist. Figma says the beta period will run through the end of the year. While in beta, Figma’s AI tools will be free, but the company says it might have to introduce “usage limits.” Figma is also promising “clear guidance on pricing” when the AI features officially launch.
 
-In a blog post, Figma also spelled out its approach to training its AI models. “All of the generative features we’re launching today are powered by third-party, out-of-the-box AI models and were not trained on private Figma files or customer data,” writes Kris Rasmussen, Figma’s CTO. “We fine-tuned visual and asset search with images of user interfaces from public, free Community files.”
+In a blog post, Figma also spelled out its approach to training its AI models. “All of the generative features we’re launching today are powered by third-party, out-of-the-box AI models and were not trained on private Figma files or customer data,” [writes Kris Rasmussen, Figma’s CTO](https://www.figma.com/blog/introducing-figma-ai/). “We fine-tuned visual and asset search with images of user interfaces from public, free Community files.”
 
 Rasmussen adds that Figma trains its models so they learn patterns and “Figma-specific concepts and tools” but not from users’ content. Figma is also going to let Figma admins control whether Figma can train on “customer content,” which includes “file content created in or uploaded to Figma by a user, such as layer names and properties, text and images, comments, and annotations,” according to Rasmussen.
 
@@ -28,7 +28,7 @@ Figma won’t start training on this content until August 15th; however, you sho
 
 The company is likely being specific about how it trains its AI models because of Adobe’s recent terms of service disaster, where the company had to clarify [that it wouldn’t train AI on your work](/2024/6/18/24181001/adobe-updated-terms-of-service-wont-train-ai-on-work).
 
-In addition to the redesign and the new AI features, Figma is adding a potentially very practical new tool: Figma Slides, a Google Slides-like feature built right into Figma. Yamashita says that users have already been hacking Figma to find a way to make slides, so now there’s an official method to build and share presentations right inside the app.
+In addition to the redesign and the new AI features, Figma is adding a potentially very practical new tool: [Figma Slides](https://www.figma.com/blog/figma-slides/), a Google Slides-like feature built right into Figma. Yamashita says that users have already been hacking Figma to find a way to make slides, so now there’s an official method to build and share presentations right inside the app.
 
 There are a few Figma-specific features that designers will likely appreciate. You’ll be able to tweak designs you’ve included in the deck in real time using Figma’s tools. (Note that those changes will only appear *in the deck* — tweaks won’t currently sync back to the original design files, though Yamashita says that Figma wants to make that possible eventually.)
 

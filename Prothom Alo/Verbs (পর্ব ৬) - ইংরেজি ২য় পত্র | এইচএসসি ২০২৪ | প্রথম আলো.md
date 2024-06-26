@@ -1,0 +1,13 @@
+**15. **
+
+English (a) <u>       </u> (be) the most widely used international language. It (b) <u>       </u> (learn) to communicate with the foreigners for various purposes such as (c) <u>       </u> (maintain) co*-*operation, co*-*existence and exchanging business information. There are also certain jobs which (d) <u>       </u> (require) a good functional knowledge of English. The jobs of a pilot, a postman, a telephone operator, a tour guide, a mechanic, a receptionist of an international hotel, an executive of a multinational firm, etc. (e) <u>       </u> (be) a few of them. Besides, a student (f) <u>       </u> (wish) to go for higher studies, must learn English because the books on advanced education are mostly (g) <u>       </u> (write) in English. So, the importance and demand of learning English in our country can, in no way, be (h) <u>       </u> (ignore). Rather, we should (i) <u>       </u> (attach) high importance to (j) <u>       </u> (learn) English to make room for ourselves in the competitive world. In the age of globalization, it (k) <u>       </u> (be) difficult (l) <u>       </u> (cope) up with the outside world without (m) <u>       </u> (know) good English. In fact, the prosperity of a country largely (n) <u>       </u> (depend) on the knowledge of English of its people.
+
+**Answer:**  a. is; b. is learnt; c. maintaining; d. require; e. are; f. wishing; g. written;  h. ignored; i. attach; j. learning; k. is; l. to cope; m. knowing; n. depends. 
+
+**16.**
+
+Air (a) <u>       </u> (be) an important element of the environment. But it is constantly being (b) <u>       </u> (pollute) in many ways. We make fire to cook food and (c) <u>       </u> (do) many works. This fire emits smoke which (d) <u>       </u> (contaminate) air. Vehicles pollute air to a great extent by (e) <u>       </u> (burn) fuel. Air pollution also (f) <u>       </u> (happen) when coal and oil (g) <u>       </u> (burn). Mills and factories can be (h) <u>       </u> (hold) responsible for this pollution. It is high time we (i) <u>       </u> (check) air pollution. Otherwise, we (j) <u>       </u> (suffer) a lot. People from all walks of life (k) <u>       </u> (be) aware of (l) <u>       </u> (keep) the environment free from pollution. The government (m) <u>       </u> (take) stern steps and the criminals have to be (n) <u>       </u> (bring) to book to stop environment pollution. 
+
+**Answer:**  a. is; b. polluted; c. do; d. contaminates; e. burning; f. happens; g. are burnt; h. held; i. checked; j. have to suffer/will suffer; k. should be;  l. keeping; m. has to take; n. brought.
+
+**মো. জসিম উদ্দীন বিশ্বাস***, সহকারী অধ্যাপক, *ঢাকা রেসিডেনসিয়াল মডেল কলেজ, ঢাকা
