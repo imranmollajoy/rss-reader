@@ -1,0 +1,13 @@
+Meta is testing a feature for its [Quest headsets](/23906313/meta-quest-3-review-vr-mixed-reality-headset) that allows you to place windows freely, similar to the [Apple Vision Pro](/24054862/apple-vision-pro-review-vr-ar-headset-features-price). Multitasking with multiple windows has been part of Meta Horizon OS (formerly Meta Quest OS) [for a few years now](/2021/6/18/22539750/oculus-quest-1-air-link-v30-update-multitasking), but currently, it only supports three virtual windows docked in a side-by-side layout.
+
+[*RoadtoVR*](https://www.roadtovr.com/quest-vision-pro-feature-window-feature/) points out [this demonstration video from a data miner named Luna](https://x.com/Lunayian/status/1805443950745907408), who spotted the experimental feature in [version 67](https://communityforums.atmeta.com/t5/Announcements/PTC-v67-Release-Thread/ba-p/1209832) of the Meta Quest Public Test Channel.
+
+It brings the Quest 3, in particular, a step closer to Apple’s spatial computing when used in mixed reality mode, but from the video, it doesn’t seem to work quite the same way. You can freely move up to three windows from 2D apps — such as the browser or OS windows like your library and settings — around your space and keep another three docked.
+
+[Other demos](https://go.skimresources.com/?id=1025X1701640&xs=1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJJN8edh-xXc) suggest that the windows will only remember their placement within a limited distance and return to their default positions should you switch orientation or reset the view. We haven’t tested it yet ourselves to know the full limitations here, but it looks promising.
+
+The update also allows you to switch between curved and flat windows, as well as a dimmer that lowers the brightness of virtual environments while using 2D apps. (The latter doesn’t yet work for passthrough mode.)
+
+The Apple Vision Pro allows you to move windows around whichever space you’re in and keep them locked in place even while you move around and after you take the headset off. That way, you can have a window sitting next to your refrigerator and another positioned alongside the TV in your living room, and then walk to and from the windows as if they’re actual objects.
+
+I’ve seen [more ads lately that highlight the Quest 3’s productivity](https://go.skimresources.com/?id=1025X1701640&xs=1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D34-DDtOmuJE) potential instead of just the gaming-centric ones. While Meta’s headset might not handle that with the same pizzazz as the Vision Pro just yet, considering it costs $3,000 less, it really doesn’t have to.
