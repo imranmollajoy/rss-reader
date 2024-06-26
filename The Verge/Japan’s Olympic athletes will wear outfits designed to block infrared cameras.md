@@ -1,0 +1,11 @@
+At the 2024 Paris Summer Olympics, [*Le Monde* reports](https://www.lemonde.fr/en/sports/article/2024/06/21/paris-2024-new-material-to-combat-voyeurism-in-women-s-sport_6675404_9.html?random=2004262126) that athletes on Japan’s volleyball, track and field, and other teams will be competing in [outfits made from a new fabric](https://corp.mizuno.com/en/articles/0042) that can better absorb infrared light. Similar to stealth aircraft that avoid detection by deflecting radar signals away from detectors, the fabric absorbs and prevents infrared light from reaching cameras and infrared sensors.
+
+Some devices have unintentionally demonstrated how the infrared sensing used in night vision goggles and thermal cameras can reveal the unseen, like the [OnePlus 8 Pro’s “Photochrom” color filter](/2020/5/15/21259723/oneplus-8-pro-x-ray-vision-infrared-filter-see-through-plastic) that worked like X-ray vision on the thin shell of an Apple TV. When used on people, infrared photography can reveal the lines of a person’s body or the undergarments they’re wearing beneath a thin layer of clothing, such as those worn by athletes.
+
+In 2020, athletes complained to the Japanese Olympic Committee after discovering infrared camera “photos of themselves shared on social media with sexually explicit captions,” [according to *The Japan Times*](https://www.japantimes.co.jp/sports/2020/10/13/track-field/joc-female-athletes-exploitative-photos/). Since then, Mizuno, Sumitomo Metal Mining, and Kyodo Printing have co-developed the new fabric that’s stretchable enough to be used in athletic uniforms while also protecting athletes.
+
+*Mizuno’s newly developed fabric is dramatically more effective at hindering infrared photography.*
+
+Image: Mizuno
+
+In experiments [shared by Mizuno](https://corp.mizuno.com/en/articles/0042), a printed black “C” beneath a layer of “Game uniform fabric” and the new infrared-absorbing fabric is nearly entirely obscured when photographed with an infrared camera. Multiple layers of the new light-absorbing fabric would help more, but with athletes already expressing concerns about the [extreme heat expected at the upcoming Paris Olympic Games](/2024/6/18/24181004/summer-paris-olympics-heatwave-athletes-report), the uniforms need to strike a balance between protecting against invasive creeps while keeping participants cool and comfortable.
