@@ -1,0 +1,7 @@
+Over the last day or so, customers of the big three US mobile carriers — [Verizon](https://www.reddit.com/r/verizon/comments/1dpa02z/international_outage/), [AT&T](https://www.reddit.com/r/ATT/comments/1dpj9mb/international_data_roaming_not_working/), and [T-Mobile](https://www.reddit.com/r/tmobile/comments/1dpbdl7/data_roaming_not_working_anymore/) — who are using data roaming internationally have complained about an inability to connect and make calls. Complaints about connection problems have spread across social media for hours, with little response from the carriers.
+
+In an email sent to *The Verge*, AT&T spokesperson Keoni Holoman explained that the issue is apparently linked to an unnamed third party:
+
+> The AT&T network is operating normally. Some customers traveling internationally may be experiencing service disruptions due to an issue outside the AT&T network. We’re working with one of our roaming connectivity providers to resolve the issue.
+
+That won’t help anyone get connected, but the companies are aware of the issue. A [tweet](https://x.com/VerizonSupport/status/1806337933365981254) from Verizon’s support account on X says, “Our teams are actively working with local providers to resolve the issue” of calls not connecting for people traveling abroad. T-Mobile declined to provide an on-the-record response to our question that met [our standard](/press-room/22772113/the-verge-on-background-policy-update) for publishing.
