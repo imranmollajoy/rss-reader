@@ -20,6 +20,10 @@ There are a few requirements before signing up. You must be 18 or older, have a 
 
 Each participant will receive $1,000
 
+There are a few other provisions to keep in mind. The Uber cash provided can only be used for Uber rides or Lime bike and scooter trips. For “cash-equivalent stipends,” Uber will encourage participants to submit receipts for their mobility purchases, whether its carshare services or public transportation.
+
+If a participant owns two cars, Uber will require that participant to give up just one of their vehicles during the duration of the trial. If you’ve only got one car, then you’ll be required to give up that vehicle. In other words, the company is seeking to examine how people go “car light,” but not strictly “car free.”
+
 “Many Uber riders tell us they want to live a more car-light lifestyle with a variety of ways to ride, including public transit, shared bikes and scooters, walking, and rideshare,” Adam Gromis, global head of sustainability policy at Uber, said in a statement. “This research is critical to help us figure out how to make car-light living possible for more people who want to save money, emissions and time in traffic.”
 
 Uber isn’t the first company to come up with this idea for a car-free trial. It’s not even the first ridehail company to try it. In 2018, [Lyft launched](/2018/7/31/17629782/lyft-chicago-ditch-car-mobility-challenge) its “Ditch with Lyft” trial, in which [hundreds of participants in dozens of cities](/2018/7/31/17629782/lyft-chicago-ditch-car-mobility-challenge) were given $550 in Lyft credits, bikeshare, and other tender to give up their cars for a month. The challenge then [morphed](https://www.mercurynews.com/2019/11/07/lyft-teams-with-carvana-to-get-drivers-to-ditch-their-cars/) into an offer of free Lyft trips to people who sold their cars on Carvana.
@@ -27,3 +31,5 @@ Uber isn’t the first company to come up with this idea for a car-free trial. I
 Uber says it was inspired to tackle its own trial after seeing [encouraging results](https://uber.app.box.com/s/gdso9de1fwc58glg6nvjiz23aicls0cb) in Australia, in which participants reported increased walking, biking, and public transit usage during the challenge. Uber concluded that people need access to at least four other modes of transportation in order to successfully ditch their cars. Still, few of the participants said they’d be willing to go so far as to sell their cars and rely only on alternative modes — only three of the 58 said they planned to do this “in the near future.”
 
 It will be interesting to track the response to the challenge in these various cities, with various levels of transit, bike infrastructure, and density, to see how well Uber’s theory about personal car ownership plays out. And it will be equally interesting to see if Uber takes any lessons away about its own contributions to car traffic.
+
+***Update June 27th:** This story has been updated to include more information about the rules.*
