@@ -1,4 +1,4 @@
-Microsoft is launching its Xbox TV app on Amazon’s Fire TV Sticks in July. The Xbox app will provide access to Xbox Cloud Gaming so subscribers to Xbox Game Pass Ultimate can stream a variety of games directly to Fire TV devices.
+Microsoft is launching its Xbox TV app [on Amazon’s Fire TV Sticks](https://www.aboutamazon.com/news/devices/xbox-gaming-on-amazon-fire-tv) in July. The Xbox app will provide access to Xbox Cloud Gaming so subscribers to Xbox Game Pass Ultimate can stream a variety of games directly to Fire TV devices.
 
 Microsoft will support the Fire TV Stick 4K Max and Fire TV Stick 4K models for its Xbox app, which will be available in more than 25 countries. All you’ll need is a compatible Fire TV Stick, a Bluetooth-enabled wireless controller, and an Xbox Game Pass Ultimate subscription to stream Xbox games.
 
