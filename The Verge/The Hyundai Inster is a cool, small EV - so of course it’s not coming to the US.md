@@ -1,0 +1,15 @@
+Meet the [Hyundai Inster](https://www.hyundai.com/worldwide/en/newsroom/detail/0000000788), the latest cute, small electric vehicle that is being cruelly denied a North American debut. This subcompact EV has over 200 miles of range, an almost retro-inspired interior aesthetic (think lots of plastic and chunky buttons), and an adorable face that won’t be making an appearance on US roads any time soon.
+
+Oh, and did I mention that it will be *very* affordable? [*Automotive News* is reporting](https://www.autonews.com/cars-concepts/hyundai-inster-subcompact-crossover-enters-affordable-ev-market) that the Inster will be priced below $26,000. So not only is Hyundai entering the fray for affordable EVs, but it’s doing it as at an extreme distance from the US — which is very much in need of affordable EVs.
+
+Tesla is being [wishy](/2024/4/5/24122064/tesla-cancel-affordable-electric-vehicle-model-2-china)-[washy](/2024/4/23/24138646/tesla-q1-2024-earnings-model-2-affordable-electric-vehicles) on making a more affordable $25,000 “Model 2.” Ford is still trying to crack the code with its [Silicon Valley-based skunkworks team](/2024/2/7/24064545/ford-skunkworks-low-cost-ev-battery-tesla). GM is promising cheaper EVs — like a $35,000 [Chevy Equinox EV](/2024/2/12/24070558/gm-chevy-equinox-ev-price-range-trim-model-date) or an [Ultium-based Chevy Bolt](/2023/7/25/23806863/chevy-bolt-ev-gm-ultium-battery) — but has yet to fully deliver. The [Volvo EX30](/2023/6/7/23750921/volvo-ex30-compact-suv-ev-price-specs), another alleged $35,000 smallish EV, [is delayed](/2024/6/26/24186691/volvo-officially-delays-the-ex30-in-the-us-until-2025).
+
+The Kia EV3 from Hyundai’s sister company is supposed to be coming in 2025, along with a few other affordable EVs. But the Inster won’t be among them. Like the [Honda e](/2019/2/27/18243026/honda-urban-ev-prototype-geneva-motor-show-2019) before it, it’s a vehicle too tiny for America’s truck-shaped digestive system.
+
+The Inster will launch first in Korea this summer, followed by Europe, the Middle East, and Asia-Pacific. I’m not seeing New Jersey anywhere on that list. Very disappointing.
+
+The tiny crossover is taller than a Hyundai Elantra but shorter than a Mitsubishi Mirage. It can get 300km (182 miles) of range on its 42kWh battery, or 355km (220 miles) with its longer range 49kWh battery. A single electric motor can put out 95 horsepower in the base version and 113hp in the Long Range model. Both variants have 108 pound-feet of torque.
+
+Inside, there are screens, of course. But also physical controls of the like you don’t normally see in a modern car, let alone an EV. There’s a 10.3 instrument cluster and an equally sized center display touchscreen. And there are plenty of creature comforts, like a wireless charging pad and heated steering wheel.
+
+But alas, it will be the denizens of South Korea and those who hang their hats in luckier locales whose fingers will be kept toasty warm while steering the Hyundai Inster — and not my own.
