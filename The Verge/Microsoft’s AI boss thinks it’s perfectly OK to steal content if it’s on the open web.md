@@ -1,0 +1,1 @@
+> I think that with respect to content that’s already on the open web, the social contract of that content since the ‘90s has been that it is fair use. Anyone can copy it, recreate with it, reproduce with it. That has been “freeware,” if you like, that’s been the understanding.

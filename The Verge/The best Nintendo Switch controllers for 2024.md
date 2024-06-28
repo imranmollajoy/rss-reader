@@ -1,0 +1,109 @@
+The best Nintendo Switch controllers aren’t the ones that come with it. While the removable Joy-Cons included with all non-Lite Switch consoles are convenient given they can be detached for wireless use, their tiny contourless design isn’t that comfortable for long gaming sessions or large hands. And while Nintendo has taken steps to address the dreaded [Joy-Con drift](/21504741/nintendo-switch-joy-con-drift-problem-explained) and earlier quality control problems, some issues persist.
+
+In this buying guide, we focus on wireless controllers that are both comfortable and reliable, as well as a few options that come with unique features designed to match your play style. We’re not covering wired controllers that plug into the Switch’s dock, as they’re almost all the same and don’t offer substantial savings in many cases. ([PowerA](https://go.skimresources.com/?id=1025X1701640&xs=1&url=https%3A%2F%2Fwww.powera.com%2Fc%2Fnintendo%2Fnintendo-switch%2Fcontrollers%2F) and [PDP](https://pdp.com/collections/nintendo-switch-controllers) make decent ones that will do in a pinch, but they’re very basic. Unless you detest recharging your controllers, it makes more sense to go wireless.)
+
+Also, if you buy a third-party wireless controller (as in, one not made by Nintendo), there are certain things that it likely won’t be able to do unless otherwise noted:
+
+-   It won’t have HD rumble. This is what Nintendo calls its advanced haptic feedback, which is more precise than that of many third-party controllers and more akin to Sony’s haptics engine in its subtlety. That said, some more limited rumble may be present. 
+-   Many third-party Switch controllers don’t have motion controls for gestures or gyroscopic aiming in games that support it, though more options are starting to implement the latter feature with varying degrees of quality.
+-   Most non-Nintendo options lack an NFC reader for Amiibo cards or figurines, which unlock special features in some games. 
+-   Most third-party options won’t be able to turn on the Switch remotely. (You’ll have to manually press the console’s power button.) 
+-   While some Switch controllers have 3.5mm headphone jacks, getting audio out of them can only happen through a wired USB connection, not wirelessly. For most people, [pairing Bluetooth headphones to your Switch](/22690100/how-to-pair-bluetooth-wireless-headphones-earbuds-nintendo-switch) is a sufficient (and very easy) workaround.
+
+If you’re playing your Switch while docked, it’s hard to go wrong with the official [Nintendo Switch Pro Controller](https://www.amazon.com/Nintendo-Switch-Pro-Controller/dp/B01NAWKYZ0/?tag=theverge02-20). It’s the only traditional gamepad that checks all the boxes above — minus the 3.5mm audio jack — and it’s one of the most satisfying controllers we’ve tested. The [GuliKit KingKong 2 Pro](https://www.amazon.com/Bluetooth-Controller-NS-Switch-Joysticks-Button%EF%BC%88Black%EF%BC%89/dp/B09MS2VFSB/?tag=theverge02-20), meanwhile, makes for a great Xbox-style controller with exhaustive customization, while the [Hori Split Pad Pro](https://www.amazon.com/Nintendo-Switch-Split-Ergonomic-Controller-Handheld/dp/B08FJ7XY3B?tag=theverge02-20) is great for those who prefer to play in handheld mode. Then there’s [8BitDo’s PC-friendly Ultimate Bluetooth Controller](https://www.amazon.com/dp/B0B9BGJVLL?tag=theverge02-20) and [DualShock-esque Pro 2 controller](https://www.amazon.com/8Bitdo-Bluetooth-Controller-Switch-Android-Raspberry/dp/B08XY8SK9B/?tag=theverge02-20), both of which are well worth a look.
+
+### What we’re looking for
+
+#### **Connectivity**
+
+Does it support Bluetooth? Can you use it in wired mode? Are there alternate wireless modes, such as 2.4GHz?
+
+#### **Quality**
+
+Do the buttons, sticks, and triggers feel good and sturdy? Does the controller have a satisfying, well-balanced weight? Does it use premium materials for the casing and grips? Any connection issues or glitches?
+
+#### **Extra features**
+
+Are there rear-facing buttons? Does it support macros? Can you use it on multiple platforms?
+
+#### **Customization**
+
+Can you remap buttons? Is there software support for tweaking controller settings? Does it have interchangeable buttons or sticks? Can you fine-tune vibration and sensitivity?
+
+#### **Value**
+
+Is it priced fairly? Are the features and quality worth the money?
+
+### The best Nintendo Switch controller for TV mode
+
+<span class="small">***Supported platforms:** Nintendo Switch, PC, Steam Deck, mobile, Apple TV / **Connectivity:** Bluetooth, wired / **Connector type:** USB-C / **Mappable rear buttons:** No / **Software customization:** No / **Rumble:** Yes, HD / **NFC:** Yes / **Motion:** Yes / **Power:** Built-in rechargeable / **Console Wakeup:** Yes*</span>
+
+More than seven years down the road, Nintendo’s first-party Pro controller is still the best gamepad for the Switch. It launched alongside the console in 2017 as a more traditional alternative to Nintendo’s quirky Joy-Cons, and in many ways, it rivals the standard models from Sony and Microsoft in terms of comfort and build quality.
+
+Aside from the Joy-Cons, the Switch Pro Controller is the only wireless option that includes HD rumble, gyroscopic movement support, and an NFC reader for Amiibo cards and figurines. It’s also the only controller we’ve tested (again, aside from the Joy-Cons) that can power on the Switch without being plugged into it. The gamepad is built like a tank, and its battery life is so good that it sometimes seems like it’ll never run out. Nintendo says that it lasts around 40 hours per charge, so it’ll likely take casual gamers a long time to run down the battery.
+
+The buttons and triggers have a satisfying bounce, while its directional pad is responsive and clicky enough to satisfy retro gamers. The controller charges via USB-C, just like the Switch, and it’s compatible with a slew of other platforms you might game on, including PC, Android, and SteamOS. It also works with Apple devices thanks to its compatibility with the latest versions of iOS, macOS, and even tvOS and visionOS.
+
+Given the price, we wish that it had other features, like programmable buttons or a 3.5mm headphone jack for audio, even if wireless audio transmission from the Switch to a controller isn’t currently possible. (At least you can connect a pair of wireless headphones via Bluetooth, but only [if you have no more than two controllers](https://en-americas-support.nintendo.com/app/answers/detail/a_id/55973) connected to your Switch at once.)
+
+### The best Switch controller for handheld mode
+
+<span class="small">***Supported Platforms:** Switch / **Connectivity:** Wired / **Connector type:** Joy-Con slots / **Mappable rear buttons:** Yes / **Software customization:** No / **Rumble:** No / **NFC:** No / **Motion:** No / **Power:** via Joy-Con slots / **Console Wakeup:** No*</span>
+
+I’m sure there are some people who enjoy using Joy-Con controllers, but kids and small-handed folks aside, most people probably wouldn’t say they’re the most comfortable option. That’s where the Hori Split Pad Pro comes in.
+
+The Split Pad Pro comes in a variety of colorways, and it both looks and feels like a Switch Pro Controller that’s split in half. One-half slides into each side of the Switch console like Joy-Cons, but unlike Nintendo’s default controllers, Hori’s gamepad features big, easy-to-reach buttons and generously sized triggers and analog sticks, all of which feel great in play. It also provides a lot of grip, which is particularly useful for people who need to get a better handle on the console for fast gameplay or stay comfy over longer play sessions.
+
+The Split Pad Pro doesn’t have batteries or sensors — not to mention support for rumble, motion, IR, or NFC — so it’s completely useless when detached from the Switch. It’s only for handheld mode unless you purchase the [Split Pad Pro Attachment](/23007610/hori-split-pad-pro-attachment-nintendo-switch-price-features-review) that turns it into a wired controller. We don’t recommend most people go that route since the attachment alone costs more than a Switch Pro Controller, which is a shame considering it doesn’t try to add any of the aforementioned elements (it does add a 3.5mm headphone jack, however).
+
+The company also sells the [Split Pad Compact](/2022/9/12/23348870/hori-split-pad-compact-nintendo-switch-joy-con-price-features), which is a smaller version of the Split Pad Pro that [costs around $50](https://www.amazon.com/Nintendo-Switch-Split-Compact-Light-Yellow/dp/B0BDSNHLDY?tag=theverge02-20). It might be worth a look if you want something as functional as the Split Pad Pro but closer in size to a Joy-Con.
+
+### The best Xbox-style controller for the Switch
+
+<span class="small">***Supported Platforms:** Switch, PC, Steam Deck, mobile, Apple TV / **Connectivity:** Bluetooth, wired / **Connector type:** USB-C / **Mappable rear buttons:** No / **Software customization:** No / **Rumble:** Yes / **NFC:** Yes / **Motion:** Yes / **Power:** Built-in rechargeable / **Console Wakeup:** Yes*</span>
+
+The [GuliKit KingKong 2 Pro](https://www.amazon.com/KingKong-Wireless-Controller-Nintendo-Switch-Bluetooth/dp/B09QJN8ZD9?tag=theverge02-20) rivals the Switch Pro Controller in build quality, but it feels more like a modern Xbox controller, and its textured rear grips might give it the edge for some. Unlike most third-party controllers, it retains Amiibo support, though some users [have reported issues](https://www.reddit.com/r/Controller/comments/vmiyjh/gulikit_king_kong_pro_2_amiibo_compatibility/) with inauthentic Amiibo products. The KingKong 2 Pro can connect via Bluetooth to the Switch and to PC, macOS, iOS, Android, and other platforms. And because it uses GuliKit’s Hall effect sensors for its analog sticks, it’s immune to drift.
+
+We recommend checking out [this video at iFixit](https://youtu.be/JluAuIJ-tSY) to see a thorough explanation of how it works, but in essence, Hall effect sensors use magnets to alter electrical current instead of physically rubbing on (and eventually wearing down) a sensor to produce an input. While we haven’t heard widespread reports of chronic analog stick drift issues on the Switch Pro Controller thus far, controllers with Hall effect sensors will never encounter it, and the peace of mind is worth the added cost. (The 8BitDo Ultimate Bluetooth Controller below [also uses GuliKit’s sensors](https://twitter.com/GuliKitDesign/status/1564852820141957120).)
+
+Control-wise, almost everything about the KingKong 2 Pro feels just right. The face buttons, bumpers, and D-pad all strike a balance between travel, tactile feedback, and feel. The analog sticks are incredibly fluid yet easily snap back into their default positions. Clicking the sticks doesn’t require much force, either, even when they’re off-axis. And while we can’t fully credit GuliKit for the excellent ergonomics afforded by the Xbox-inspired shape, we can award points for the sturdy materials used and nailing a well-balanced weight.
+
+The controller provides exhaustive customizability options, too. You can swap button layouts, program macros, and cycle through preset levels of rumble intensity and trigger sensitivity (which may not apply when using it with the Switch, as it doesn’t support analog triggers). However, managing these settings is less than ideal, as you can only change them by inputting button combinations. Sure, the combos are simple, but memorizing them all is challenging. Thankfully, GuliKit clearly spells everything out in the comprehensive manual you’ll receive with the gamepad.
+
+It’s worth noting that GuliKit recently released a [KingKong 3 Pro](https://www.gulikit.com/productinfo/1222182.html) and [KingKong 3 Max](https://www.gulikit.com/productinfo/1130420.html). The KingKong 3 Pro builds upon the premium controller by adding four slots for detachable rearward buttons or paddles (two come in the box) and a 1,000Hz polling rate for improved responsiveness. The KingKong 3 Max is similar but includes three pairs of back buttons (including short and long styles) and a 10-minute macro recording limit (versus 10 seconds on the KingKong 3 Pro). There’s also a dedicated trigger mode switch, RGB lights around the analog sticks that signal which sensitivity mode you’re in, and NFC for Amiibo support.
+
+### A Switch controller for PC and Steam Deck
+
+<span class="small">***Supported Platforms:** Switch, PC, Steam Deck, mobile, Apple TV / **Connectivity:** 2.4GHz, Bluetooth, wired / **Connector type:** USB-C / **Mappable rear buttons:** Yes / **Software customization:** Yes / **Rumble:** Yes / **NFC:** No / **Motion:** Yes / **Power:** Built-in rechargeable / **Console Wakeup:** No*</span>
+
+[8BitDo’s Ultimate Bluetooth Controller](https://www.amazon.com/dp/B0B9BGJVLL?tag=theverge02-20) feels like a Switch Pro Controller in shape, with a similarly short grip profile that larger hands may not prefer. Both share Switch and Windows PC support, but 8BitDo gets a leg up with full Steam Deck compatibility. Its haptics are decent but not as good as Nintendo’s, and it’s missing Amiibo support, though it does feature motion controls and customizable back paddles. It also comes with a charging dock, which stores the 2.4GHz dongle when not in use. The included dock is handy for charging the 22-hour battery, which is still pretty generous but comes well short of the 40-hour mark set by Nintendo’s official controller.
+
+The Ultimate controller comes in several variants, but we recommend the Bluetooth model over the 2.4GHz or wired options because it includes 2.4GHz connectivity and GuliKit Hall effect sticks, which the 2.4GHz-only version lacks. The analog sticks offer just the right amount of resistance and sport a comfortable concave top, but they’re just a tad short on the sides. All of the buttons offer great travel, though, and the analog triggers have a satisfying amount of resistance when pulled.
+
+As for tweaks, you can customize button mapping profiles, macros, vibration intensity, and stick and trigger sensitivity using the Ultimate Software app on mobile or PC. The controller has a dedicated button that lets you swap between three profiles on the fly, plus an extra turbo button you can either reconfigure or remap. When it comes to Switch controllers, 8BitDo sets the standard for the breadth of these options and how to access them, which is another reason it’s high on our list.
+
+### A well-rounded Switch controller that looks like a DualShock
+
+<span class="small">***Supported Platforms:** Switch, PC, Steam Deck, mobile, Apple TV, Raspberry Pi / **Connectivity:** Bluetooth, wired / **Connector type:** USB-C / **Mappable rear buttons:** Yes / **Software customization:** Yes / **Rumble:** Yes / **NFC:** No / **Motion:** Yes / **Power:** Built-in rechargeable / **Console Wakeup:** No*</span>
+
+The [8BitDo Pro 2](https://www.amazon.com/8Bitdo-Bluetooth-Controller-Switch-Android-Raspberry/dp/B08XY8H9D5?tag=theverge02-20) is another great option with Hall effect sticks for the Nintendo Switch, especially if your hands are happiest with a PlayStation-style controller. The Pro 2 has a comfortable grip, a crisper D-pad than the Switch Pro Controller, and two easy-to-press paddle buttons on the underside. It has rumble support (though not HD rumble) and motion control for games like [*The Legend of Zelda: Tears of the Kingdom*](/23718926/zelda-tears-of-the-kingdom-review-nintendo-switch) and [*Overwatch 2*](/2022/10/4/23387041/overwatch-2-review-new-battle-pass-heroes-maps), both of which allow for gyroscopic aiming. PlayStation gamers will also appreciate that the left analog stick is located toward the bottom — just like on Sony’s controllers — rather than above the D-pad as on the Switch Pro.
+
+With [8BitDo’s Ultimate software](https://support.8bitdo.com/ultimate-software.html) on a mobile device or a Windows computer, you can customize the Pro 2’s button mapping and the sensitivity of its triggers and analog sticks. You can even save up to three control scheme profiles and cycle through them with a button located between the analog sticks. On its rear, there’s a switch that lets it toggle between Nintendo Switch, X-input for PC, DirectInput, and macOS modes, each with its own control customizations and Bluetooth profile. This controller offers a *lot* for $50 (or $54.99 if you want the incredibly cool [translucent purple](https://shop.8bitdo.com/products/8bitdo-pro-2-bluetooth-controller-for-switch-pc-macos-android-steam-raspberry-pi-special-edition) version).
+
+### An adapter that lets you use your own controllers
+
+There are many [other](/circuitbreaker/2018/11/7/18068220/gbros-wireless-adapter-gamecube-controller-nintendo-switch) [devices](/circuitbreaker/2017/10/24/16533008/nintendo-switch-gamecube-controller-support-update) that allow you to use third-party controllers, but 8BitDo’s might be the best value. Instead of spending $70 on multiple Switch Pro Controllers, the [$19.99 8BitDo Wireless Bluetooth USB Adapter 2](https://www.amazon.com/dp/B09M8CVMYF?tag=theverge02-20) lets you turn a Bluetooth controller you already own into a wireless Switch controller. It plugs into your Switch dock and supports a wide variety of models, from the latest Xbox and DualSense controllers to last-gen gamepads for the Wii and PlayStation 3. (Note: the first-gen model can’t connect to most Xbox Bluetooth controllers due to a Bluetooth incompatibility, so make sure you get the latest model.)
+
+To our surprise, the PS5 DualSense controller we tested it with worked incredibly well, with better-than-average rumble and more responsive motion controls than many dedicated Switch controllers offer. What’s more, so long as you’re using one of the newer Xbox Series X or S controllers, an Xbox One Bluetooth controller, a DualSense, a DualShock 4, or the Switch Pro Controller, you can customize their button mapping, analog stick sensitivity, and more within 8BitDo’s computer and mobile app. 
+
+[8BitDo has an extensive support page](https://support.8bitdo.com/Manual/USB-Adapter-2/xbox-switch.html) that lists the steps required to set up your specific controller, as well as which features of those controllers it supports. That said, it’s best if you know the Switch’s button layout by heart if you plan to use either a PlayStation or Xbox controller with this adapter, as the layout on your controller will not match the on-screen prompts in games.
+
+If you already have a controller you really like and don’t mind jumping through a few small hoops to connect it, 8BitDo’s affordable adapter deserves a spot in your entertainment center. If you plan to use more than one third-party controller at a time, you’ll need an adapter for each controller ([and a USB hub](http://www.amazon.com/dp/B07PKG18DR?tag=theverge02-20)), but if you have a lot of controllers sitting around, it might be worth it.
+
+### Other Switch controllers you should know about
+
+-   We like CRKD’s [**Nitro Deck**](/2023/12/28/24017863/nitro-deck-micro-review) around here. It’s a cradle-style controller that holds the Switch between a pair of Hall effect sticks, outfitting it with a standard array of face buttons, four programmable back buttons, turbo functionality, gyro motion controls, and rumble. It has passthrough charging, though, not passthrough video, which would allow it to double as a dock for TV gameplay. The step-up [**Nitro Deck Plus**](https://crkd.gg/collections/allndp) adds said functionality (with a USB-C to HDMI adapter), along with Bluetooth connectivity and adjustable vibration intensity / analog sensitivity. We’ve found these to be notable improvements, but wish the passthrough solution was more elegant and that CRKD could solve the ergonomics (particularly on the right side, where the analog and button placement can cause discomfort).
+-   We recently tested the [**GameSir T4 Cyclone Pro**](https://www.amazon.com/GameSir-Wireless-Controller-Switch-Drifting-Nintendo/dp/B0CDX449NJ?tag=theverge02-20) ($49.99) for consideration. It offers many of the same functions as the GuliKit KingKong 2 Pro — including remappable buttons, Hall effect sticks, and two distinct macro buttons — along with dedicated vibration motors in the triggers, which is something the GuliKit can’t claim. That said, it falls just short due to mushy-feeling buttons. GameSir considers the extra padding under the buttons a feature that makes the impact softer, but we felt it takes away from the experience. Also, although it’s perfectly usable with the Switch, the Pro’s button labeling takes after Microsoft’s, which may not be ideal for those who have trouble memorizing inputs. We also found resyncing with the Switch to be a chore after switching from a mobile device or a Windows PC.
+-   We also recently tried several wireless PowerA controllers, including the [**GameCube Style Wireless Controller**](https://www.amazon.com/PowerA-Wireless-Controller-Nintendo-Switch-GameCube/dp/B0CT5JPCCC?tag=theverge02-20) ($59.99) and a Pikachu-themed version of the standard [**PowerA Enhanced Wireless**](https://www.amazon.com/PowerA-Enhanced-Wireless-Controller-Nintendo-Switch-Black/dp/B08DRRJBC6?tag=theverge02-20) ($59.99). We like the fun design of PowerA’s controllers, but they don’t live up to the quality of the models we recommend above, which is a shame considering some cost nearly as much. The GameCube-style wireless controller is a pretty faithful recreation of the original if you fancy a pure *Super Smash Bros.* experience, but it’s barebones with no rumble, NFC, or IR. It’s an easy way to get the old-school feeling back if you don’t already have a Bluetooth-based alternative to use with 8BitDo’s USB Adapter 2.
+
+***Update, June 28th:** Updated to include details on several new models, including the Gamesir T4 Cyclone Pro and PowerA’s GameCube Style Wireless Controller.*
