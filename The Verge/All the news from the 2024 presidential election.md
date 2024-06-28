@@ -1,3 +1,11 @@
-Independent presidential candidate and notable anti-vaccine activist Robert F. Kennedy Jr. has tapped Nicole Shanahan, a wealthy Silicon Valley lawyer, as his running mate. Shanahan previously contributed $4 million to Kennedy’s super PAC, helping to bankroll a 30-second campaign ad during this year’s [Super Bowl](https://www.nytimes.com/2024/02/12/us/politics/nicole-shanahan-rfk-super-bowl-ad.html).
+The first presidential debate was very bad.
 
-Shanahan, who was formerly married to Google co-founder Sergey Brin, has [donated heavily to Democratic candidates](https://www.washingtonpost.com/politics/2024/03/26/nicole-shanahan-rfk-jr-running-mate/) in the past. In the campaign announcement speech, Kennedy called his running mate “exactly the right person,” as someone who “shared my passion for wholesome healthy foods, chemical-free for regenerative agriculture, for good soils.” He called her a “technologist at the forefront of AI” who uses “neural nets” to “identify abuses in our government.” He also praised her use of “cutting-edge technologies, including AI, to calculate the catastrophic health consequences of toxins in our soil, our air, our water, and our food.”
+Here’s a summary that includes tech policy issues and also some of the most unhinged stuff we heard tonight.
+
+**Things mentioned:**
+
+China, tariffs, semiconductor chips, Charlottesville, the border, “space age materials,” the Green New Deal, environment, election “fraud,” opioids, Twitter(???), having sex with porn stars, Hunter Biden laptop, golf handicaps(??????)
+
+**Things not mentioned:**
+
+TikTok, Facebook, FISA warrantless surveillance, EVs, intellectual property, broadband policy, artificial intelligence (thank god!!!)
