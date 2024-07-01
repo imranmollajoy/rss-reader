@@ -10,7 +10,7 @@ At that point, Silvergate’s chief financial officer Antonio Martino “engaged
 
 That earnings release understated Silvergate’s losses from its securities sales, the SEC complaint alleges. Martino also lied on the bank’s quarterly earnings call, according to the complaint.
 
-Martino “categorically denies” these allegations, said Rachel Katz, a spokeswoman for Martino’s law firm Linklaters, in an emailed statement. “Mr. Martino acted reasonably and in good faith throughout his time at Silvergate. He denies any wrongdoing and intends to challenge the SEC’s claims in court,” Martino’s attorney, Adam Lurie, said in the statement.
+Martino “categorically denies” these allegations, said his attorney, Adam Lurie, in a statement emailed to *The Verge* by Rachel Katz, a spokeswoman for Martino’s law firm Linklaters. “Mr. Martino acted reasonably and in good faith throughout his time at Silvergate. He denies any wrongdoing and intends to challenge the SEC’s claims in court,” said Lurie, who was also directly quoted in a statement Katz said was his.
 
 At the heart of the SEC’s allegations is the network Silvergate ran to allow crypto customers to transact at all hours, called SEN. This was used by, among others, stablecoin issuers such as Circle, Paxos, and Gemini. Though Silvergate said SEN was safe, the SEC says the network wasn’t being automatically monitored for suspicious transactions for “at least 15 months prior to November 2022.”
 
@@ -18,4 +18,4 @@ What’s more, on several occasions in 2022, the bank’s government examiners m
 
 The earnings statement for the first quarter of 2023 wasn’t the only one alleged to contain fraud. In November 2022, the company suggested to investors that it had a “state-of-the-art” compliance program. In reality, the SEC says there was no automatic monitoring for several months before that earnings statement was released.
 
-*Update, July 1st: Added Linklater’s statement, SEC press release, and settlement details.*
+***Update, July 1st:** Added Linklater’s statement, SEC press release, and settlement details.*
